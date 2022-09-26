@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-09-26T08:33:22.216Z</updated>
+    <updated>2022-09-26T09:25:47.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JAEHYUN - Faster(엔시티 127 재현 - 패스터) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29470137</id>
+        <link href="https://tv.naver.com/v/29470137"/>
+        <updated>2022-09-26T09:25:46.635Z</updated>
+        <content type="html"><![CDATA[02:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 MARK - Faster(엔시티 127 마크 - 패스터) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469961</id>
+        <link href="https://tv.naver.com/v/29469961"/>
+        <updated>2022-09-26T09:25:46.637Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 DOYOUNG - Faster(엔시티 127 도영 - 패스터) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469960</id>
+        <link href="https://tv.naver.com/v/29469960"/>
+        <updated>2022-09-26T09:25:46.658Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JUNGWOO - Faster(엔시티 127 정우 - 패스터) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469814</id>
+        <link href="https://tv.naver.com/v/29469814"/>
+        <updated>2022-09-26T09:25:46.669Z</updated>
+        <content type="html"><![CDATA[02:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 DOYOUNG - 2 Baddies(엔시티 127 도영 - 질주) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469812</id>
+        <link href="https://tv.naver.com/v/29469812"/>
+        <updated>2022-09-26T09:25:46.669Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JUNGWOO - 2 Baddies(엔시티 127 정우 - 질주) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469634</id>
+        <link href="https://tv.naver.com/v/29469634"/>
+        <updated>2022-09-26T09:25:46.669Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JAEHYUN - 2 Baddies(엔시티 127 재현 - 질주) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469334</id>
+        <link href="https://tv.naver.com/v/29469334"/>
+        <updated>2022-09-26T09:25:46.669Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 9월 넷째 주 음악중심 MC 컷 모음!, MBC 220924 방송]]></title>
         <id>https://tv.naver.com/v/29466763</id>
@@ -164,55 +213,6 @@
         <id>https://tv.naver.com/v/29433000</id>
         <link href="https://tv.naver.com/v/29433000"/>
         <updated>2022-09-25T13:38:42.648Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN - Faster(엔시티 127 해찬 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432999</id>
-        <link href="https://tv.naver.com/v/29432999"/>
-        <updated>2022-09-25T13:38:42.648Z</updated>
-        <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JUNGWOO - Faster(엔시티 127 정우 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432998</id>
-        <link href="https://tv.naver.com/v/29432998"/>
-        <updated>2022-09-25T13:38:42.648Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 DOYOUNG - Faster(엔시티 127 도영 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432996</id>
-        <link href="https://tv.naver.com/v/29432996"/>
-        <updated>2022-09-25T13:38:42.650Z</updated>
-        <content type="html"><![CDATA[01:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 YUTA - Faster(엔시티 127 유타 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432995</id>
-        <link href="https://tv.naver.com/v/29432995"/>
-        <updated>2022-09-25T13:38:42.653Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL - Faster(엔시티 127 태일 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432992</id>
-        <link href="https://tv.naver.com/v/29432992"/>
-        <updated>2022-09-25T13:38:42.653Z</updated>
-        <content type="html"><![CDATA[01:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 DOYOUNG - 2 Baddies(엔시티 127 도영 - 질주) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432991</id>
-        <link href="https://tv.naver.com/v/29432991"/>
-        <updated>2022-09-25T13:38:42.654Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JAEHYUN - Faster(엔시티 127 재현 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432872</id>
-        <link href="https://tv.naver.com/v/29432872"/>
-        <updated>2022-09-25T13:38:42.655Z</updated>
         <content type="html"><![CDATA[02:07]]></content>
     </entry>
 </feed>
