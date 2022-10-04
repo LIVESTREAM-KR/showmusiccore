@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-04T05:47:40.215Z</updated>
+    <updated>2022-10-04T06:35:26.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL - 2 Baddies(엔시티 127 태일 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29656176</id>
+        <link href="https://tv.naver.com/v/29656176"/>
+        <updated>2022-10-04T06:35:25.971Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 YUTA - 2 Baddies(엔시티 127 유타 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655992</id>
+        <link href="https://tv.naver.com/v/29655992"/>
+        <updated>2022-10-04T06:35:25.973Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JAEHYUN - 2 Baddies(엔시티 127 재현 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655990</id>
+        <link href="https://tv.naver.com/v/29655990"/>
+        <updated>2022-10-04T06:35:25.973Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 TAEYONG - 2 Baddies(엔시티 127 태용 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655654</id>
+        <link href="https://tv.naver.com/v/29655654"/>
+        <updated>2022-10-04T06:35:25.973Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JUNGWOO - 2 Baddies(엔시티 127 정우 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655650</id>
+        <link href="https://tv.naver.com/v/29655650"/>
+        <updated>2022-10-04T06:35:25.976Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JOHNNY - 2 Baddies(엔시티 127 쟈니 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655649</id>
+        <link href="https://tv.naver.com/v/29655649"/>
+        <updated>2022-10-04T06:35:25.976Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 DOYOUNG - 2 Baddies(엔시티 127 도영 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655648</id>
+        <link href="https://tv.naver.com/v/29655648"/>
+        <updated>2022-10-04T06:35:25.989Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK - 2 Baddies(엔시티 127 마크 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655474</id>
+        <link href="https://tv.naver.com/v/29655474"/>
+        <updated>2022-10-04T06:35:25.989Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN - 2 Baddies(엔시티 127 해찬 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655312</id>
+        <link href="https://tv.naver.com/v/29655312"/>
+        <updated>2022-10-04T06:35:25.989Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 10월 첫째 주 음악중심 MC 컷 모음!, MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29654752</id>
+        <link href="https://tv.naver.com/v/29654752"/>
+        <updated>2022-10-04T06:35:25.989Z</updated>
+        <content type="html"><![CDATA[13:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 10월 1주차 1위 앵콜 무대! 엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
         <id>https://tv.naver.com/v/29605866</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/29605530"/>
         <updated>2022-10-01T09:25:21.874Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus – GRATATA(라필루스 - 그라타타) FanCam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29605529</id>
-        <link href="https://tv.naver.com/v/29605529"/>
-        <updated>2022-10-01T09:25:21.874Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XIUMIN - Brand New(시우민 – 브랜뉴) FanCam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29605526</id>
-        <link href="https://tv.naver.com/v/29605526"/>
-        <updated>2022-10-01T09:25:21.874Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XIUMIN - Brand New(시우민 – 브랜뉴) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29605385</id>
-        <link href="https://tv.naver.com/v/29605385"/>
-        <updated>2022-10-01T09:25:21.876Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 1주차 1위 엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604881</id>
-        <link href="https://tv.naver.com/v/29604881"/>
-        <updated>2022-10-01T08:29:38.631Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604734</id>
-        <link href="https://tv.naver.com/v/29604734"/>
-        <updated>2022-10-01T08:29:38.632Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시우민 - 브랜드 뉴 (XIUMIN - Brand New), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604667</id>
-        <link href="https://tv.naver.com/v/29604667"/>
-        <updated>2022-10-01T08:29:38.632Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티 - 파티 락 (CRAVITY - PARTY ROCK), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604613</id>
-        <link href="https://tv.naver.com/v/29604613"/>
-        <updated>2022-10-01T08:29:38.634Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 다이스 (NMIXX - DICE), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604611</id>
-        <link href="https://tv.naver.com/v/29604611"/>
-        <updated>2022-10-01T08:29:38.634Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년 - 드립 앤 드롭 (MIRAE - Drip N' Drop), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604522</id>
-        <link href="https://tv.naver.com/v/29604522"/>
-        <updated>2022-10-01T08:29:38.634Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환(KIM JAE HWAN) X 이진혁(LEE JIN HYUK) in 코노돌🎉 - (부활-Lonely Night,슈프림팀(영준)-그땐그땐그땐), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604520</id>
-        <link href="https://tv.naver.com/v/29604520"/>
-        <updated>2022-10-01T08:29:38.637Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
