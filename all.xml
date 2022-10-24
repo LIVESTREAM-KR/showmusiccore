@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-24T07:54:01.567Z</updated>
+    <updated>2022-10-24T08:40:26.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 스페셜 MC 한 X 민주 X 리노(민호), 10월 넷째 주 음악중심 MC 컷 모음!, MBC 221022 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/30183186</id>
+        <link href="https://tv.naver.com/v/30183186"/>
+        <updated>2022-10-24T08:40:25.793Z</updated>
+        <content type="html"><![CDATA[11:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최애직캠] Stray Kids HYUNJIN - CASE 143(스트레이 키즈 #현진 - 케이스 143) Close-up Cam|Show! MusicCore|MBC221022방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/30179289</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/30140214"/>
         <updated>2022-10-22T09:25:20.838Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MAMAMOO Whee In - ILLELLA(마마무 #휘인 - 일낼라) FanCam | Show! MusicCore | MBC221022방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/30140131</id>
-        <link href="https://tv.naver.com/v/30140131"/>
-        <updated>2022-10-22T09:25:20.840Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
