@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-29T06:26:33.915Z</updated>
+    <updated>2022-10-29T07:18:53.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭킹콩 - 썸머 포 유 (Jackingcong - Summer For You), MBC 221029]]></title>
+        <id>https://tv.naver.com/v/30335668</id>
+        <link href="https://tv.naver.com/v/30335668"/>
+        <updated>2022-10-29T07:18:52.750Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Nxde까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/30241159</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30140516"/>
         <updated>2022-10-22T09:25:20.834Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er XIAOTING - We Fresh(케플러 #샤오팅 - 위 프레시) FanCam | Show! MusicCore | MBC221022방송]]></title>
-        <id>https://tv.naver.com/v/30140283</id>
-        <link href="https://tv.naver.com/v/30140283"/>
-        <updated>2022-10-22T09:25:20.836Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
