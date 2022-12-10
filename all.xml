@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-10T06:20:45.511Z</updated>
+    <updated>2022-12-10T07:15:18.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 드로우 (ICHILLIN' - Draw), MBC 221210 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31498696</id>
+        <link href="https://tv.naver.com/v/31498696"/>
+        <updated>2022-12-10T07:15:17.396Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 - 러브티콘(♡TiCON) (CSR - LOVETICON(♡TiCON)), MBC 221210 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31498694</id>
+        <link href="https://tv.naver.com/v/31498694"/>
+        <updated>2022-12-10T07:15:17.397Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이리스 - 스테이 위드 미 (IRRIS - Stay W!th Me), MBC 221210 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31498692</id>
+        <link href="https://tv.naver.com/v/31498692"/>
+        <updated>2022-12-10T07:15:17.397Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위앤유 - 하루하루 (WeNU - Haru Haru), MBC 221210 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31498512</id>
+        <link href="https://tv.naver.com/v/31498512"/>
+        <updated>2022-12-10T07:15:17.397Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ITZY.zip 📂 DALLA DALLA(달라달라)부터 Cheshire까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31434983</id>
@@ -185,33 +213,5 @@
         <link href="https://tv.naver.com/v/31304824"/>
         <updated>2022-12-03T09:15:38.159Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KARA Hur Young Ji - WHEN I MOVE(카라 허영지 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304823</id>
-        <link href="https://tv.naver.com/v/31304823"/>
-        <updated>2022-12-03T09:15:38.163Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 빅톤 - 바이러스 (VICTON - Virus), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304739</id>
-        <link href="https://tv.naver.com/v/31304739"/>
-        <updated>2022-12-03T09:15:38.164Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 네이처 - 넘어와 (NATURE - LIMBO!), MBC 221119 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304665</id>
-        <link href="https://tv.naver.com/v/31304665"/>
-        <updated>2022-12-03T09:15:38.170Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Jeong Dong Won - Baennori(정동원 – 뱃놀이) FanCam (Horizontal Ver.) | Show! MusicCore |MBC221203방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304664</id>
-        <link href="https://tv.naver.com/v/31304664"/>
-        <updated>2022-12-03T09:15:38.171Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
