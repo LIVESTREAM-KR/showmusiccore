@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-07T10:16:19.211Z</updated>
+    <updated>2023-01-07T11:12:41.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ JAECHAN - 2022 (Forever)(디케이지 재찬 - 2022 (포에버)) FanCam | Show! MusicCore | MBC230107방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201963</id>
+        <link href="https://tv.naver.com/v/32201963"/>
+        <updated>2023-01-07T11:12:40.464Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ – 2022 (Forever)(디케이지 - 2022 (포에버)) FanCam | Show! MusicCore | MBC230107방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201894</id>
+        <link href="https://tv.naver.com/v/32201894"/>
+        <updated>2023-01-07T11:12:40.469Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Jeong Dong Won - A Real Man(정동원 – 진짜 사나이) FanCam (Horizontal Ver.) | Show! MusicCore | MBC2 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201893</id>
+        <link href="https://tv.naver.com/v/32201893"/>
+        <updated>2023-01-07T11:12:40.469Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ KYOUNGYOON - 2022 (Forever)(디케이지 경윤 - 2022 (포에버)) FanCam | Show! MusicCore | MBC230107방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201817</id>
+        <link href="https://tv.naver.com/v/32201817"/>
+        <updated>2023-01-07T11:12:40.472Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Jeong Dong Won – A Real Man(정동원 - 진짜 사나이) FanCam | Show! MusicCore | MBC230107방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201816</id>
+        <link href="https://tv.naver.com/v/32201816"/>
+        <updated>2023-01-07T11:12:40.481Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] woo!ah! – Rollercoaster(우아! - 롤러코스터) FanCam | Show! MusicCore | MBC230107방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201724</id>
+        <link href="https://tv.naver.com/v/32201724"/>
+        <updated>2023-01-07T11:12:40.481Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Espero – Endless(에스페로 - 엔드리스) FanCam | Show! MusicCore | MBC230107방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32201722</id>
+        <link href="https://tv.naver.com/v/32201722"/>
+        <updated>2023-01-07T11:12:40.481Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ MINGI - HALAZIA(에이티즈 민기 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/32201464</id>
@@ -164,54 +213,5 @@
         <link href="https://tv.naver.com/v/32199240"/>
         <updated>2023-01-07T08:20:07.160Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WayV YANGYANG - Phantom (English Ver.)(웨이션브이 양양 - 팬텀) FanCam | Show! MusicCore | MBC230107방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32199238</id>
-        <link href="https://tv.naver.com/v/32199238"/>
-        <updated>2023-01-07T08:20:07.161Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO) - 춥춥 (MOONBIN & SANHA(ASTRO) - Chup Chup), MBC 220107 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32199237</id>
-        <link href="https://tv.naver.com/v/32199237"/>
-        <updated>2023-01-07T08:20:07.165Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - 할라지아 (ATEEZ - HALAZIA), MBC 220107 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32199235</id>
-        <link href="https://tv.naver.com/v/32199235"/>
-        <updated>2023-01-07T08:20:07.168Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨이션브이 - 팬텀 (WayV - Phantom (English Ver.)), MBC 220107 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32199109</id>
-        <link href="https://tv.naver.com/v/32199109"/>
-        <updated>2023-01-07T08:20:07.168Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디케이지 - 2022 (포에버) (DKZ - 2022 (Forever)), MBC 220107 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32199019</id>
-        <link href="https://tv.naver.com/v/32199019"/>
-        <updated>2023-01-07T08:20:07.169Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리(VERIVERY) in 코노돌🎉 - (부석순(SEVENTEEN) - 거침없이, G-DRAGON - 삐딱하게), MBC 220107 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32199018</id>
-        <link href="https://tv.naver.com/v/32199018"/>
-        <updated>2023-01-07T08:20:07.170Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원 - 진짜 사나이 (JEONG DONG WON - A Real Man), MBC 220107 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32198926</id>
-        <link href="https://tv.naver.com/v/32198926"/>
-        <updated>2023-01-07T08:20:07.171Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
