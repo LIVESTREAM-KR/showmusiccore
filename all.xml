@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T09:16:20.212Z</updated>
+    <updated>2023-01-27T10:18:36.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Jeong Dong Won – Baennori(정동원 – 뱃놀이)  | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32665650</id>
+        <link href="https://tv.naver.com/v/32665650"/>
+        <updated>2023-01-27T10:18:35.288Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 우아! - 롤러코스터 (woo!ah! - Rollercoaster), MBC 230114 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/32530009</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/32377786"/>
         <updated>2023-01-14T09:15:26.811Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MONSTA X - Deny(몬스타엑스 – 디나이) FanCam | Show! MusicCore | MBC230114방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32377785</id>
-        <link href="https://tv.naver.com/v/32377785"/>
-        <updated>2023-01-14T09:15:26.811Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
