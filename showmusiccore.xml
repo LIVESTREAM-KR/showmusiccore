@@ -2,9 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-04T07:17:47.877Z</updated>
+    <updated>2023-02-04T08:20:08.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔시티 127 - 에이요 (NCT 127 - Ay-Yo), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876770</id>
+        <link href="https://tv.naver.com/v/32876770"/>
+        <updated>2023-02-04T08:20:07.925Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 127 - 디제이 (NCT 127 - DJ), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876571</id>
+        <link href="https://tv.naver.com/v/32876571"/>
+        <updated>2023-02-04T08:20:07.925Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비지 - 풀 업 (VIVIZ - PULL UP), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876568</id>
+        <link href="https://tv.naver.com/v/32876568"/>
+        <updated>2023-02-04T08:20:07.925Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승윤 - 꿈의 거처 (Lee Seung Yoon - Shelter Of Dreams), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876481</id>
+        <link href="https://tv.naver.com/v/32876481"/>
+        <updated>2023-02-04T08:20:07.937Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시그니처 - 오로라 (cignature - AURORA), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876479</id>
+        <link href="https://tv.naver.com/v/32876479"/>
+        <updated>2023-02-04T08:20:07.937Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김종서 - 인 마이 라이프 (Kim Jong Seo - In my life), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876381</id>
+        <link href="https://tv.naver.com/v/32876381"/>
+        <updated>2023-02-04T08:20:07.937Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정동원(Jeong Dong Won) in 코노돌🎉 - (테이 - Monologue, 싸이 - That That), MBC 230204방송]]></title>
+        <id>https://tv.naver.com/v/32876294</id>
+        <link href="https://tv.naver.com/v/32876294"/>
+        <updated>2023-02-04T08:20:07.937Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지영 - 퀸 (Lee Jiyoung - Queen), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876186</id>
+        <link href="https://tv.naver.com/v/32876186"/>
+        <updated>2023-02-04T08:20:07.951Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경서 - 나의 X에게 (KyoungSeo - Dear my X), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32876075</id>
+        <link href="https://tv.naver.com/v/32876075"/>
+        <updated>2023-02-04T08:20:07.951Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류지현 - 씰룩씰룩 (RYU JIHYUN - Green Light), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875995</id>
+        <link href="https://tv.naver.com/v/32875995"/>
+        <updated>2023-02-04T08:20:07.951Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일리원 - 별꽃동화 (ILY:1 - Twinkle Twinkle), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875973</id>
+        <link href="https://tv.naver.com/v/32875973"/>
+        <updated>2023-02-04T08:20:07.965Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이머스 - 불꽃놀이 (AIMERS - Fireworks), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875873</id>
+        <link href="https://tv.naver.com/v/32875873"/>
+        <updated>2023-02-04T08:20:07.965Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - PRIMROSE (PRIMROSE - PRIMROSE), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875752</id>
+        <link href="https://tv.naver.com/v/32875752"/>
+        <updated>2023-02-04T08:20:07.965Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에잇턴 - 틱 택 (8TURN - TIC TAC), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875653</id>
+        <link href="https://tv.naver.com/v/32875653"/>
+        <updated>2023-02-04T08:20:07.965Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스지 - 슈팅 스타 (XG - SHOOTING STAR), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875536</id>
+        <link href="https://tv.naver.com/v/32875536"/>
+        <updated>2023-02-04T08:20:07.967Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니 - 다이브 (uni - DIVE), MBC 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32875376</id>
+        <link href="https://tv.naver.com/v/32875376"/>
+        <updated>2023-02-04T08:20:07.967Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ – HALAZIA(에이티즈 - 할라지아)  | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/32849933</id>
@@ -102,117 +214,5 @@
         <link href="https://tv.naver.com/v/32693697"/>
         <updated>2023-01-28T09:15:32.009Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AIMERS – Fireworks(에이머스 - 불꽃놀이) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693696</id>
-        <link href="https://tv.naver.com/v/32693696"/>
-        <updated>2023-01-28T09:15:32.009Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RYU JIHYUN - Green Light(류지현 – 씰룩씰룩) FanCam (Horizontal Ver.) | Show! MusicCore |MBC230128방]]></title>
-        <id>https://tv.naver.com/v/32693695</id>
-        <link href="https://tv.naver.com/v/32693695"/>
-        <updated>2023-01-28T09:15:32.015Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE SEUNG YOON – Shelter of Dreams(이승윤 - 꿈의 거처) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693675</id>
-        <link href="https://tv.naver.com/v/32693675"/>
-        <updated>2023-01-28T09:15:32.015Z</updated>
-        <content type="html"><![CDATA[04:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE SEUNG YOON - Shelter of Dreams(이승윤 – 꿈의 거처) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693674</id>
-        <link href="https://tv.naver.com/v/32693674"/>
-        <updated>2023-01-28T09:15:32.015Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG CHISA – SHOOTING STAR(엑스지 치사 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693599</id>
-        <link href="https://tv.naver.com/v/32693599"/>
-        <updated>2023-01-28T09:15:32.017Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG JURIA – SHOOTING STAR(엑스지 쥬리아 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693598</id>
-        <link href="https://tv.naver.com/v/32693598"/>
-        <updated>2023-01-28T09:15:32.017Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YESUNG – Small Things(예성 - 스몰 띵스) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693596</id>
-        <link href="https://tv.naver.com/v/32693596"/>
-        <updated>2023-01-28T09:15:32.017Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] cignature – AURORA(시그니처 - 오로라) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693503</id>
-        <link href="https://tv.naver.com/v/32693503"/>
-        <updated>2023-01-28T08:20:16.923Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG COCONA – SHOOTING STAR(엑스지 코코나 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693502</id>
-        <link href="https://tv.naver.com/v/32693502"/>
-        <updated>2023-01-28T08:20:16.924Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG JURIN – SHOOTING STAR(엑스지 주린 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693419</id>
-        <link href="https://tv.naver.com/v/32693419"/>
-        <updated>2023-01-28T08:20:16.924Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] PRIMROSE – PRIMROSE(프림로즈 - 프림로즈) FanCam | Show! MusicCore | MBC230128방송]]></title>
-        <id>https://tv.naver.com/v/32693401</id>
-        <link href="https://tv.naver.com/v/32693401"/>
-        <updated>2023-01-28T08:20:16.924Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 에이티즈 - 할라지아 (ATEEZ - HALAZIA), MBC 230114 방송]]></title>
-        <id>https://tv.naver.com/v/32693155</id>
-        <link href="https://tv.naver.com/v/32693155"/>
-        <updated>2023-01-28T08:20:16.926Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예성 - 스몰 띵스 (YESUNG - Small Things), MBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32693053</id>
-        <link href="https://tv.naver.com/v/32693053"/>
-        <updated>2023-01-28T08:20:16.927Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이브 - 판도라 (MAVE: - PANDORA), MBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32693052</id>
-        <link href="https://tv.naver.com/v/32693052"/>
-        <updated>2023-01-28T08:20:16.929Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤 - 꿈의 거처 (Lee Seung Yoon - Shelter Of Dreams), MBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32692863</id>
-        <link href="https://tv.naver.com/v/32692863"/>
-        <updated>2023-01-28T08:20:16.942Z</updated>
-        <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지영 - 퀸 (Lee Jiyoung - Queen), MBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32692757</id>
-        <link href="https://tv.naver.com/v/32692757"/>
-        <updated>2023-01-28T08:20:16.943Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
