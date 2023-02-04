@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-04T09:15:15.975Z</updated>
+    <updated>2023-02-04T10:17:07.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230204방송]]></title>
+        <id>https://tv.naver.com/v/32878325</id>
+        <link href="https://tv.naver.com/v/32878325"/>
+        <updated>2023-02-04T10:17:06.931Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] XG COCONA – SHOOTING STAR(엑스지 코코나 - 슈팅 스타) FanCam | Show! MusicCore | MBC230204방송]]></title>
         <id>https://tv.naver.com/v/32878221</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32875995"/>
         <updated>2023-02-04T08:20:07.951Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원 - 별꽃동화 (ILY:1 - Twinkle Twinkle), MBC 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32875973</id>
-        <link href="https://tv.naver.com/v/32875973"/>
-        <updated>2023-02-04T08:20:07.965Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
