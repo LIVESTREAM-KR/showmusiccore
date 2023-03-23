@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-23T07:15:49.615Z</updated>
+    <updated>2023-03-23T08:20:44.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] KAI.zip 📂 Mmmh(음)부터 Rover까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34145996</id>
+        <link href="https://tv.naver.com/v/34145996"/>
+        <updated>2023-03-23T08:20:43.451Z</updated>
+        <content type="html"><![CDATA[13:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] STAYC – Teddy Bear(스테이씨 - 테디베어)  | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34147585</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/34099131"/>
         <updated>2023-03-18T09:16:14.980Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY WOOBIN – Groovy(크래비티 우빈 - 그루비) FanCam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099130</id>
-        <link href="https://tv.naver.com/v/34099130"/>
-        <updated>2023-03-18T09:16:14.982Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
