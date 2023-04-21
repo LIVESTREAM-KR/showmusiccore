@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-21T07:15:15.460Z</updated>
+    <updated>2023-04-21T08:19:58.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Kep1er.zip 📂 WA DA DA부터 Giddy까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35111531</id>
+        <link href="https://tv.naver.com/v/35111531"/>
+        <updated>2023-04-21T08:19:58.211Z</updated>
+        <content type="html"><![CDATA[16:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] FIFTY FIFTY – Cupid(피프티 피프티 - 큐피드) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35161890</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/34984319"/>
         <updated>2023-04-15T11:12:38.838Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er HIKARU – Giddy(케플러 히카루 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34984229</id>
-        <link href="https://tv.naver.com/v/34984229"/>
-        <updated>2023-04-15T11:12:38.839Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
