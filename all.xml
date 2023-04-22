@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-22T12:28:10.833Z</updated>
+    <updated>2023-04-22T13:18:06.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er - Giddy(케플러 – 기디) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35222634</id>
+        <link href="https://tv.naver.com/v/35222634"/>
+        <updated>2023-04-22T13:18:05.528Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er YOUNGEUN – Giddy(케플러 서영은 - 기디) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35222612</id>
+        <link href="https://tv.naver.com/v/35222612"/>
+        <updated>2023-04-22T13:18:05.528Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] GIUK - (TIME MACHINE) (2100)(기욱 – 제0호선 시간역행) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35222524</id>
@@ -199,19 +213,5 @@
         <link href="https://tv.naver.com/v/35220042"/>
         <updated>2023-04-22T10:15:45.526Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ – I AM(아이브 리즈 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35219943</id>
-        <link href="https://tv.naver.com/v/35219943"/>
-        <updated>2023-04-22T10:15:45.526Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST HANBIN – Dangerous(템페스트 한빈 - 난장) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35219853</id>
-        <link href="https://tv.naver.com/v/35219853"/>
-        <updated>2023-04-22T10:15:45.526Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
