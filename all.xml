@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-13T10:15:21.901Z</updated>
+    <updated>2023-05-13T11:12:16.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ADYA - Per(에이디야 – 펄) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894637</id>
+        <link href="https://tv.naver.com/v/35894637"/>
+        <updated>2023-05-13T11:12:15.679Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Siren(아이칠린 – 사이렌) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894542</id>
+        <link href="https://tv.naver.com/v/35894542"/>
+        <updated>2023-05-13T11:12:15.680Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Freakin’ Bad(엑스디너리 히어로즈 - 프리킹 배드) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894465</id>
+        <link href="https://tv.naver.com/v/35894465"/>
+        <updated>2023-05-13T11:12:15.689Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EPEX - Sunshower(이펙스 – 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894464</id>
+        <link href="https://tv.naver.com/v/35894464"/>
+        <updated>2023-05-13T11:12:15.689Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BAE173 J-MIN – GT(비에이이173 제이민 - 지티) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894329</id>
+        <link href="https://tv.naver.com/v/35894329"/>
+        <updated>2023-05-13T11:12:15.689Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BAE173 HANGYUL – GT(비에이이173 한결 - 지티) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894227</id>
+        <link href="https://tv.naver.com/v/35894227"/>
+        <updated>2023-05-13T11:12:15.689Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BAE173 - GT(비에이이173 – 지티) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894226</id>
+        <link href="https://tv.naver.com/v/35894226"/>
+        <updated>2023-05-13T11:12:15.689Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee Mu-jin – Ordinary Confession(이무진 – 잠깐 시간 될까) FanCam (Horizontal Ver.) | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894097</id>
+        <link href="https://tv.naver.com/v/35894097"/>
+        <updated>2023-05-13T11:12:15.689Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee Mu-jin – Ordinary Confession(이무진 - 잠깐 시간 될까) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894002</id>
+        <link href="https://tv.naver.com/v/35894002"/>
+        <updated>2023-05-13T11:12:15.698Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB LEE CHANG SUB – Wind And Wish(비투비 이창섭 - 나의 바람) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35893910</id>
+        <link href="https://tv.naver.com/v/35893910"/>
+        <updated>2023-05-13T11:12:15.699Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] BTOB - Wind And Wish(비투비 – 나의 바람) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35893845</id>
@@ -143,75 +213,5 @@
         <link href="https://tv.naver.com/v/35891802"/>
         <updated>2023-05-13T09:13:50.704Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔시티 도재정 - 퍼퓸 (NCT DOJAEJUNG - Perfume), MBC 230506 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891801</id>
-        <link href="https://tv.naver.com/v/35891801"/>
-        <updated>2023-05-13T09:13:50.704Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔시티 도재정 - 키스 (NCT DOJAEJUNG - Kiss), MBC 230506 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891776</id>
-        <link href="https://tv.naver.com/v/35891776"/>
-        <updated>2023-05-13T09:13:50.704Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 - 나의 바람 (BTOB - Wind And Wish), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891173</id>
-        <link href="https://tv.naver.com/v/35891173"/>
-        <updated>2023-05-13T08:18:13.464Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 - 스파이시 (aespa - Spicy), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891073</id>
-        <link href="https://tv.naver.com/v/35891073"/>
-        <updated>2023-05-13T08:18:13.465Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 - 솔티 & 스위트 (aespa - Salty & Sweet), MBC 230513 방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890955</id>
-        <link href="https://tv.naver.com/v/35890955"/>
-        <updated>2023-05-13T08:18:13.465Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성민 - 사랑이 따끔 (SUNGMIN - Lovesick), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890855</id>
-        <link href="https://tv.naver.com/v/35890855"/>
-        <updated>2023-05-13T08:18:13.467Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무진 - 잠깐 시간 될까 (LEE MU JIN - Ordinary Confession), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890654</id>
-        <link href="https://tv.naver.com/v/35890654"/>
-        <updated>2023-05-13T08:18:13.468Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - 세븐 신스 (DRIPPIN - SEVEN SINS), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890583</id>
-        <link href="https://tv.naver.com/v/35890583"/>
-        <updated>2023-05-13T08:18:13.479Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크 (Apink) in 코노돌🎉 - (노라조 - 카레, 아웃사이더 - 외톨이), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890557</id>
-        <link href="https://tv.naver.com/v/35890557"/>
-        <updated>2023-05-13T08:18:13.482Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 - 이레이즈 미 (ONEUS - ERASE ME), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890446</id>
-        <link href="https://tv.naver.com/v/35890446"/>
-        <updated>2023-05-13T08:18:13.482Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
