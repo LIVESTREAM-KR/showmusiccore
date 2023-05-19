@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T06:20:09.139Z</updated>
+    <updated>2023-05-19T07:14:13.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] IVE – I AM(아이브 - 아이엠) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36044328</id>
+        <link href="https://tv.naver.com/v/36044328"/>
+        <updated>2023-05-19T07:14:12.347Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] aespa.zip 📂 Black Mamba부터 Spicy까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36044326</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/35892729"/>
         <updated>2023-05-13T09:13:50.688Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa - Salty & Sweet(에스파 – 솔티 앤 스위트) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35892594</id>
-        <link href="https://tv.naver.com/v/35892594"/>
-        <updated>2023-05-13T09:13:50.689Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
