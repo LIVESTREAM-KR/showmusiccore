@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-26T06:19:42.509Z</updated>
+    <updated>2023-05-26T07:14:49.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT DOJAEJUNG – Perfume(NCT 도재정 - 퍼퓸) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36212036</id>
+        <link href="https://tv.naver.com/v/36212036"/>
+        <updated>2023-05-26T07:14:48.931Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(G)I-DLE.zip 📂 LATATA부터 Queencard(퀸카)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36224675</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/36134478"/>
         <updated>2023-05-20T12:27:31.027Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAEYEON - KNOCK(이채연 – 노크) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36134391</id>
-        <link href="https://tv.naver.com/v/36134391"/>
-        <updated>2023-05-20T12:27:31.027Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
