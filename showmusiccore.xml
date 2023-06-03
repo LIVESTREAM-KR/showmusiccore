@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-03T07:13:34.911Z</updated>
+    <updated>2023-06-03T08:17:39.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 1주차 1위 (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36612426</id>
+        <link href="https://tv.naver.com/v/36612426"/>
+        <updated>2023-06-03T08:17:39.102Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주헌 (몬스타엑스) - 프리덤 (JOOHONEY (MONSTA X) - FREEDOM), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36612315</id>
+        <link href="https://tv.naver.com/v/36612315"/>
+        <updated>2023-06-03T08:17:39.103Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레이 키즈 - 특 (Stray Kids - S-Class), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36612229</id>
+        <link href="https://tv.naver.com/v/36612229"/>
+        <updated>2023-06-03T08:17:39.103Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36612132</id>
+        <link href="https://tv.naver.com/v/36612132"/>
+        <updated>2023-06-03T08:17:39.105Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조미 (feat. 은혁) - 마냐나 (ZHOUMI - Mañana (Our Drama)), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36612131</id>
+        <link href="https://tv.naver.com/v/36612131"/>
+        <updated>2023-06-03T08:17:39.109Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이비식스 - 루저 (AB6IX - LOSER), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611985</id>
+        <link href="https://tv.naver.com/v/36611985"/>
+        <updated>2023-06-03T08:17:39.109Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리 - 크레이지 라이크 댓 (VERIVERY - Crazy Like That), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611752</id>
+        <link href="https://tv.naver.com/v/36611752"/>
+        <updated>2023-06-03T08:17:39.109Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[템페스트 (TEMPEST) in 코노돌🎉 - (지코 - Artist, WOODZ - BUMP BUMP), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611750</id>
+        <link href="https://tv.naver.com/v/36611750"/>
+        <updated>2023-06-03T08:17:39.109Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 - 세이브 미, 킬 미 (CIX - Save me, Kill me), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611655</id>
+        <link href="https://tv.naver.com/v/36611655"/>
+        <updated>2023-06-03T08:17:39.111Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티비오 - 넥스트 투 미 (ATBO - Next to Me), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611468</id>
+        <link href="https://tv.naver.com/v/36611468"/>
+        <updated>2023-06-03T08:17:39.111Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다크비 - 터닝 포인트 (DKB - Turning Point), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611466</id>
+        <link href="https://tv.naver.com/v/36611466"/>
+        <updated>2023-06-03T08:17:39.111Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년판타지 (스위치) - 셧 오프 (FANTASY BOYS (SWITCH) - Shut off), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36611190</id>
+        <link href="https://tv.naver.com/v/36611190"/>
+        <updated>2023-06-03T08:17:39.111Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소년판타지 (블랙 퍼퓸) - 제스처 (FANTASY BOYS (Black Perfume) - Geature), MBC 230603 방송]]></title>
         <id>https://tv.naver.com/v/36611094</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/36382272"/>
         <updated>2023-05-27T13:16:30.731Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KAEDAN – Snacks(소년판타지 케이단 - 스낵스) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36382133</id>
-        <link href="https://tv.naver.com/v/36382133"/>
-        <updated>2023-05-27T13:16:30.731Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS NAM SEUNGHYUN – Snacks(소년판타지 남승현 - 스낵스) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36381894</id>
-        <link href="https://tv.naver.com/v/36381894"/>
-        <updated>2023-05-27T13:16:30.731Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS PARK HYEONGGEUN – Snacks(소년판타지 박형근 - 스낵스) FanCam | Show! MusicCore |MBC230527방]]></title>
-        <id>https://tv.naver.com/v/36381670</id>
-        <link href="https://tv.naver.com/v/36381670"/>
-        <updated>2023-05-27T12:27:55.097Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Snacks(소년판타지 – 스낵스) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36381080</id>
-        <link href="https://tv.naver.com/v/36381080"/>
-        <updated>2023-05-27T12:27:55.097Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG DAEHYEON – Hold tight(소년판타지 강대현 - 꽉 잡아) FanCam |Show!MusicCore|MBC230527방]]></title>
-        <id>https://tv.naver.com/v/36381027</id>
-        <link href="https://tv.naver.com/v/36381027"/>
-        <updated>2023-05-27T12:27:55.097Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – Hold tight(소년판타지 강민서 - 꽉 잡아) FanCam | Show! MusicCore|MBC230527방]]></title>
-        <id>https://tv.naver.com/v/36380925</id>
-        <link href="https://tv.naver.com/v/36380925"/>
-        <updated>2023-05-27T12:27:55.105Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Hold tight(소년판타지 – 꽉 잡아) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36380837</id>
-        <link href="https://tv.naver.com/v/36380837"/>
-        <updated>2023-05-27T12:27:55.105Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS MOON HYUNBIN – Hold tight(소년판타지 문현빈 - 꽉 잡아) FanCam | Show!MusicCore|MBC230527방]]></title>
-        <id>https://tv.naver.com/v/36380757</id>
-        <link href="https://tv.naver.com/v/36380757"/>
-        <updated>2023-05-27T12:27:55.105Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS YUMA – Hold tight(소년판타지 유우마 - 꽉 잡아) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36380685</id>
-        <link href="https://tv.naver.com/v/36380685"/>
-        <updated>2023-05-27T12:27:55.113Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HWANG JAEMIN – Hold tight(소년판타지 황재민 - 꽉 잡아) FanCam | Show!MusicCore|MBC230527방]]></title>
-        <id>https://tv.naver.com/v/36380594</id>
-        <link href="https://tv.naver.com/v/36380594"/>
-        <updated>2023-05-27T12:27:55.118Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM BEOMJUN – Hold tight(소년판타지 김범준 - 꽉 잡아) FanCam | Show! MusicCore|MBC230527방]]></title>
-        <id>https://tv.naver.com/v/36380505</id>
-        <link href="https://tv.naver.com/v/36380505"/>
-        <updated>2023-05-27T12:27:55.118Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Hold tight(소년판타지 히카리 - 꽉 잡아) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36380307</id>
-        <link href="https://tv.naver.com/v/36380307"/>
-        <updated>2023-05-27T12:27:55.118Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
