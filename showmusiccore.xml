@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-17T11:13:20.263Z</updated>
+    <updated>2023-06-17T12:27:29.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Blackswan - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37098182</id>
+        <link href="https://tv.naver.com/v/37098182"/>
+        <updated>2023-06-17T12:27:28.412Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER - DOXA(시크릿 넘버 – 독사) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37098074</id>
+        <link href="https://tv.naver.com/v/37098074"/>
+        <updated>2023-06-17T12:27:28.412Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] SECRET NUMBER DITA – DOXA(시크릿 넘버 디타 - 독사) FanCam | Show! MusicCore | MBC230617방송]]></title>
         <id>https://tv.naver.com/v/37097979</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37095554"/>
         <updated>2023-06-17T10:15:33.601Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEYONG – SHALALA(태용 - 샤랄라) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37095370</id>
-        <link href="https://tv.naver.com/v/37095370"/>
-        <updated>2023-06-17T10:15:33.603Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ WOOYOUNG - BOUNCY(에이티즈 우영 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37095369</id>
-        <link href="https://tv.naver.com/v/37095369"/>
-        <updated>2023-06-17T10:15:33.604Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
