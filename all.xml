@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-25T08:20:18.227Z</updated>
+    <updated>2023-06-25T09:17:03.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DREAM MARK – Broken Melodies(엔시티 드림 마크 - 브로큰 멜로디스) FanCam | Show! MusicCore |MBC230624방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37351913</id>
+        <link href="https://tv.naver.com/v/37351913"/>
+        <updated>2023-06-25T09:17:02.160Z</updated>
+        <content type="html"><![CDATA[04:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 씨아이엑스 - 세이브 미, 킬 미 (CIX - Save me, Kill me), MBC 230617 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37331366</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/37148060"/>
         <updated>2023-06-19T09:16:12.653Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처)Close-upCam|Show!MusicCore|MBC230617방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37147818</id>
-        <link href="https://tv.naver.com/v/37147818"/>
-        <updated>2023-06-19T09:16:12.655Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
