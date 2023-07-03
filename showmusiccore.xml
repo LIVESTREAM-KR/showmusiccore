@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-03T06:22:48.395Z</updated>
+    <updated>2023-07-03T07:16:04.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE SO JUNG HWAN - MOVE (T5)(트레저 소정환 - 무브 (T5)) Close-up Cam|Show!MusicCore|MBC230701방]]></title>
+        <id>https://tv.naver.com/v/37619354</id>
+        <link href="https://tv.naver.com/v/37619354"/>
+        <updated>2023-07-03T07:16:03.788Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE YOON JAE HYUK - MOVE (T5)(트레저 윤재혁 - 무브 (T5))Close-up Cam|Show!MusicCore|MBC230701방]]></title>
+        <id>https://tv.naver.com/v/37619139</id>
+        <link href="https://tv.naver.com/v/37619139"/>
+        <updated>2023-07-03T07:16:03.789Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 윤호 , 7월 첫째 주 음악중심 MC 컷 모음!, MBC 230701 방송]]></title>
         <id>https://tv.naver.com/v/37615299</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37568364"/>
         <updated>2023-07-01T08:20:13.456Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 - 하드 (SHINee - HARD), MBC 230701 방송]]></title>
-        <id>https://tv.naver.com/v/37568227</id>
-        <link href="https://tv.naver.com/v/37568227"/>
-        <updated>2023-07-01T08:20:13.457Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 - 쥬스 (SHINee - JUICE), MBC 230701 방송]]></title>
-        <id>https://tv.naver.com/v/37568100</id>
-        <link href="https://tv.naver.com/v/37568100"/>
-        <updated>2023-07-01T08:20:13.460Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
