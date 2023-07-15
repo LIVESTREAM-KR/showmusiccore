@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-15T07:15:20.466Z</updated>
+    <updated>2023-07-15T08:19:57.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산다라박 - 페스티벌 (Sandara Park - FESTIVAL), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38074388</id>
+        <link href="https://tv.naver.com/v/38074388"/>
+        <updated>2023-07-15T08:19:57.126Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산다라박 - 티 맵 (Sandara Park - T MAP), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38074386</id>
+        <link href="https://tv.naver.com/v/38074386"/>
+        <updated>2023-07-15T08:19:57.140Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑소 - 크림 소다 (EXO - Cream Soda), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38074359</id>
+        <link href="https://tv.naver.com/v/38074359"/>
+        <updated>2023-07-15T08:19:57.140Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코요태 - 바람 (KOYOTE - WISH), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38073966</id>
+        <link href="https://tv.naver.com/v/38073966"/>
+        <updated>2023-07-15T08:19:57.140Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 (feat. 별은) - 시작되는 연인들을 위해  (KIM JAE HWAN - For Couples Who Just Met), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38073820</id>
+        <link href="https://tv.naver.com/v/38073820"/>
+        <updated>2023-07-15T08:19:57.141Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오드아이써클 - 에어 포스 원 (ODD EYE CIRCLE - Air Force One), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38073596</id>
+        <link href="https://tv.naver.com/v/38073596"/>
+        <updated>2023-07-15T08:19:57.142Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 파티 어클락 (NMIXX - Party O'Clock), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38073445</id>
+        <link href="https://tv.naver.com/v/38073445"/>
+        <updated>2023-07-15T08:19:57.144Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 롤러코스터 (NMIXX - Roller Coaster), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38073442</id>
+        <link href="https://tv.naver.com/v/38073442"/>
+        <updated>2023-07-15T08:19:57.146Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수안 - 트웬티  (SWAN - Twenty), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38073440</id>
+        <link href="https://tv.naver.com/v/38073440"/>
+        <updated>2023-07-15T08:19:57.148Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원 - 인 블룸 (ZEROBASEONE - In Bloom), MBC 230715 방송]]></title>
         <id>https://tv.naver.com/v/38073135</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/37822091"/>
         <updated>2023-07-08T12:31:57.251Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SWAN - Twenty(수안 – 트웬티) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37822089</id>
-        <link href="https://tv.naver.com/v/37822089"/>
-        <updated>2023-07-08T12:31:57.253Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN – 개이득(김재환 - 개이득) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821967</id>
-        <link href="https://tv.naver.com/v/37821967"/>
-        <updated>2023-07-08T12:31:57.284Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN - 개이득(김재환 – 개이득) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821760</id>
-        <link href="https://tv.naver.com/v/37821760"/>
-        <updated>2023-07-08T12:31:57.285Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SWAN – Twenty(수안 - 트웬티) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821603</id>
-        <link href="https://tv.naver.com/v/37821603"/>
-        <updated>2023-07-08T12:31:57.286Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE HANEUL - Shhh(키스오브라이프 하늘 - 쉿) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821602</id>
-        <link href="https://tv.naver.com/v/37821602"/>
-        <updated>2023-07-08T12:31:57.288Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE BELLE - Shhh(키스오브라이프 벨 - 쉿) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821411</id>
-        <link href="https://tv.naver.com/v/37821411"/>
-        <updated>2023-07-08T12:31:57.293Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE NATTY - Shhh(키스오브라이프 나띠 - 쉿) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821380</id>
-        <link href="https://tv.naver.com/v/37821380"/>
-        <updated>2023-07-08T12:31:57.293Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE – Shhh(키스오브라이프 - 쉿) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821255</id>
-        <link href="https://tv.naver.com/v/37821255"/>
-        <updated>2023-07-08T12:31:57.295Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE JULIE - Shhh(키스오브라이프 쥴리 - 쉿) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37821060</id>
-        <link href="https://tv.naver.com/v/37821060"/>
-        <updated>2023-07-08T12:31:57.297Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
