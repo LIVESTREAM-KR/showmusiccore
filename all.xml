@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-29T10:14:17.318Z</updated>
+    <updated>2023-07-29T11:11:26.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SHOWNU X HYUNGWON – Love Me A Little(셔누X형원 - 러브 미 어 리틀) FanCam | Show! MusicCore|MBC230729방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38534034</id>
+        <link href="https://tv.naver.com/v/38534034"/>
+        <updated>2023-07-29T11:11:25.704Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누 X 형원 - Love Me A Little (SHOWNU X HYUNGWON - Love Me A Little), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38533215</id>
+        <link href="https://tv.naver.com/v/38533215"/>
+        <updated>2023-07-29T11:11:25.705Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM – ISTJ(엔시티 드림 - 아이에스티제이) 1위 직캠 FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38531096</id>
@@ -199,19 +213,5 @@
         <link href="https://tv.naver.com/v/38363318"/>
         <updated>2023-07-24T10:17:19.494Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN - ISTJ(엔시티 드림 재민 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38363288</id>
-        <link href="https://tv.naver.com/v/38363288"/>
-        <updated>2023-07-24T10:17:19.494Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JENO - ISTJ(엔시티 드림 제노 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38363070</id>
-        <link href="https://tv.naver.com/v/38363070"/>
-        <updated>2023-07-24T10:17:19.494Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
