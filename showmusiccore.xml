@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-05T09:13:04.514Z</updated>
+    <updated>2023-08-05T10:14:23.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY CHAERYEONG – CAKE(있지 채령 - 케이크) FanCam | Show! MusicCore |MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38756774</id>
+        <link href="https://tv.naver.com/v/38756774"/>
+        <updated>2023-08-05T10:14:22.972Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY YUNA – CAKE(있지 유나 - 케이크) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38756683</id>
+        <link href="https://tv.naver.com/v/38756683"/>
+        <updated>2023-08-05T10:14:22.974Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY - CAKE(있지 – 케이크) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38756623</id>
+        <link href="https://tv.naver.com/v/38756623"/>
+        <updated>2023-08-05T10:14:22.976Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY LIA – CAKE(있지 리아 - 케이크) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38756537</id>
+        <link href="https://tv.naver.com/v/38756537"/>
+        <updated>2023-08-05T10:14:22.978Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY YEJI – CAKE(있지 예지 - 케이크) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38756463</id>
+        <link href="https://tv.naver.com/v/38756463"/>
+        <updated>2023-08-05T10:14:22.980Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 제로베이스원 - 인 블룸 (ZEROBASEONE - In Bloom), MBC 230729 방송]]></title>
         <id>https://tv.naver.com/v/38754659</id>
@@ -31,7 +66,7 @@
         <id>https://tv.naver.com/v/38754176</id>
         <link href="https://tv.naver.com/v/38754176"/>
         <updated>2023-08-05T09:13:03.775Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 - 여름이 들려 (OH MY GIRL - Summer Comes), MBC 230805 방송]]></title>
@@ -125,94 +160,59 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE LEE SUNG YEOL – New Emotions(인피니트 이성열 - 뉴 이모션스) FanCam |Show!MusicCore|MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38752273</id>
+        <link href="https://tv.naver.com/v/38752273"/>
+        <updated>2023-08-05T10:14:23.028Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE L – New Emotions(인피니트 엘 - 뉴 이모션스) FanCam | Show! MusicCore |MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38752170</id>
+        <link href="https://tv.naver.com/v/38752170"/>
+        <updated>2023-08-05T10:14:23.029Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE - New Emotions(인피니트 – 뉴 이모션스) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38752072</id>
+        <link href="https://tv.naver.com/v/38752072"/>
+        <updated>2023-08-05T10:14:23.030Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE LEE SEONG JONG – New Emotions(인피니트 이성종 - 뉴 이모션스) FanCam|Show!MusicCore|MBC230805방]]></title>
+        <id>https://tv.naver.com/v/38751980</id>
+        <link href="https://tv.naver.com/v/38751980"/>
+        <updated>2023-08-05T10:14:23.031Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE KIM SUNG KYU – New Emotions(인피니트 김성규 - 뉴 이모션스) FanCam | Show!MusicCore|MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38751908</id>
+        <link href="https://tv.naver.com/v/38751908"/>
+        <updated>2023-08-05T10:14:23.033Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE NAM WOO HYUN – New Emotions(인피니트 남우현 - 뉴 이모션스) FanCam | Show! MusicCore|MBC230805방]]></title>
+        <id>https://tv.naver.com/v/38751832</id>
+        <link href="https://tv.naver.com/v/38751832"/>
+        <updated>2023-08-05T10:14:23.035Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE JANG DONG WOO – New Emotions(인피니트 장동우 - 뉴 이모션스) FanCam |Show! MusicCore|MBC230805방]]></title>
+        <id>https://tv.naver.com/v/38751730</id>
+        <link href="https://tv.naver.com/v/38751730"/>
+        <updated>2023-08-05T10:14:23.036Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE – In Bloom(제로베이스원 - 인 블룸) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/38679362</id>
         <link href="https://tv.naver.com/v/38679362"/>
         <updated>2023-08-04T07:14:13.725Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] July TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
-        <id>https://tv.naver.com/v/38616025</id>
-        <link href="https://tv.naver.com/v/38616025"/>
-        <updated>2023-08-01T09:15:34.557Z</updated>
-        <content type="html"><![CDATA[33:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN – ISTJ(엔시티 드림 해찬 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600949</id>
-        <link href="https://tv.naver.com/v/38600949"/>
-        <updated>2023-08-01T02:38:41.571Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JISUNG – ISTJ(엔시티 드림 지성 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600948</id>
-        <link href="https://tv.naver.com/v/38600948"/>
-        <updated>2023-08-01T02:38:41.571Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JENO – ISTJ(엔시티 드림 제노 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600947</id>
-        <link href="https://tv.naver.com/v/38600947"/>
-        <updated>2023-08-01T02:38:41.571Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM CHENLE – ISTJ(엔시티 드림 천러 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600762</id>
-        <link href="https://tv.naver.com/v/38600762"/>
-        <updated>2023-08-01T02:38:41.571Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM RENJUN - ISTJ(엔시티 드림 런쥔 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600603</id>
-        <link href="https://tv.naver.com/v/38600603"/>
-        <updated>2023-08-01T02:38:41.573Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JAEMIN – ISTJ(엔시티 드림 재민 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600602</id>
-        <link href="https://tv.naver.com/v/38600602"/>
-        <updated>2023-08-01T02:38:41.575Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM MARK - ISTJ(엔시티 드림 마크 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38600447</id>
-        <link href="https://tv.naver.com/v/38600447"/>
-        <updated>2023-08-01T02:38:41.580Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE RICKY - In Bloom(제로베이스원 리키 - 인 블룸) Close-up Cam | Show! Music Core | MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38599885</id>
-        <link href="https://tv.naver.com/v/38599885"/>
-        <updated>2023-08-01T01:22:40.279Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM TAE RAE - In Bloom(제로베이스원 김태래 - 인 블룸) FanCam | Show! MusicCore | MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38599884</id>
-        <link href="https://tv.naver.com/v/38599884"/>
-        <updated>2023-08-01T01:22:40.283Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE PARK GUN WOOK - In Bloom(제로베이스원 박건욱 - 인 블룸) FanCam | Show! MusicCore|MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38599881</id>
-        <link href="https://tv.naver.com/v/38599881"/>
-        <updated>2023-08-01T01:22:40.285Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - In Bloom(제로베이스원 장하오 - 인 블룸) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38582059</id>
-        <link href="https://tv.naver.com/v/38582059"/>
-        <updated>2023-08-01T01:22:40.286Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
