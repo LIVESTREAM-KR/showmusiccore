@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-31T07:13:32.441Z</updated>
+    <updated>2023-08-31T08:19:18.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC.zip 📂 SO BAD 부터 Bubble 까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/39644781</id>
+        <link href="https://tv.naver.com/v/39644781"/>
+        <updated>2023-08-31T08:19:18.055Z</updated>
+        <content type="html"><![CDATA[33:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] JEON SOMI.zip 📂 BIRTHDAY부터 Fast Forward까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/39638205</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39495662"/>
         <updated>2023-08-26T10:14:56.243Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JIHYO – Killin' Me Good(지효 - 킬링 미 굿) FanCam | Show! MusicCore | MBC230826방송]]></title>
-        <id>https://tv.naver.com/v/39495661</id>
-        <link href="https://tv.naver.com/v/39495661"/>
-        <updated>2023-08-26T10:14:56.245Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
