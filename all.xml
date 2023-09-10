@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-10T02:22:14.756Z</updated>
+    <updated>2023-09-10T03:14:58.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN - Siren(라이즈 원빈 - 사이렌) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40061432</id>
+        <link href="https://tv.naver.com/v/40061432"/>
+        <updated>2023-09-10T03:14:57.389Z</updated>
+        <content type="html"><![CDATA[01:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON - Memories(라이즈 앤톤 - 메모리즈) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40061550</id>
+        <link href="https://tv.naver.com/v/40061550"/>
+        <updated>2023-09-10T03:14:57.392Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE SUNGCHAN - Memories(라이즈 성찬 - 메모리즈) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40061547</id>
+        <link href="https://tv.naver.com/v/40061547"/>
+        <updated>2023-09-10T03:14:57.396Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] JEONG DONG WON – MONOLOGUE(정동원 - 독백) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40061695</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/40060328"/>
         <updated>2023-09-09T11:11:42.930Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE EUNSEOK – Get A Guitar(라이즈 은석 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060327</id>
-        <link href="https://tv.naver.com/v/40060327"/>
-        <updated>2023-09-09T11:11:42.931Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SOHEE – Get A Guitar(라이즈 소희 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060326</id>
-        <link href="https://tv.naver.com/v/40060326"/>
-        <updated>2023-09-09T11:11:42.933Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT U - Baggy Jeans(엔시티 유 – 배기 진스) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060240</id>
-        <link href="https://tv.naver.com/v/40060240"/>
-        <updated>2023-09-09T11:11:42.935Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
