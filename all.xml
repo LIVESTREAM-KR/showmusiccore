@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-20T06:20:23.406Z</updated>
+    <updated>2023-09-20T07:14:41.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT U – Baggy Jeans(엔시티 유 - 배기 진스) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40503042</id>
+        <link href="https://tv.naver.com/v/40503042"/>
+        <updated>2023-09-20T07:14:40.757Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Young K - nothing but(영케이 - 이것밖에는 없다) Close-up Cam | Show! MusicCore | MBC230916방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40449653</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/40349619"/>
         <updated>2023-09-16T13:16:05.288Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAE YEON - LET’S DANCE(이채연 – 레츠 댄스) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230916방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40349618</id>
-        <link href="https://tv.naver.com/v/40349618"/>
-        <updated>2023-09-16T13:16:05.288Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
