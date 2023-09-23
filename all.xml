@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-23T10:14:21.180Z</updated>
+    <updated>2023-09-23T11:11:31.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638838</id>
+        <link href="https://tv.naver.com/v/40638838"/>
+        <updated>2023-09-23T11:11:30.726Z</updated>
+        <content type="html"><![CDATA[05:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TEMPEST - Vroom Vroom(템페스트 – 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638723</id>
+        <link href="https://tv.naver.com/v/40638723"/>
+        <updated>2023-09-23T11:11:30.728Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CRAVITY SEONGMIN – Ready or Not(크래비티 성민 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638721</id>
+        <link href="https://tv.naver.com/v/40638721"/>
+        <updated>2023-09-23T11:11:30.731Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] POW – Favorite(파우 - 페이보릿) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638617</id>
+        <link href="https://tv.naver.com/v/40638617"/>
+        <updated>2023-09-23T11:11:30.743Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - One Shot(판타지 보이즈 – 원샷) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638615</id>
+        <link href="https://tv.naver.com/v/40638615"/>
+        <updated>2023-09-23T11:11:30.744Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EVNNE Mun JungHyun – TROUBLE(이븐 문정현 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638614</id>
+        <link href="https://tv.naver.com/v/40638614"/>
+        <updated>2023-09-23T11:11:30.746Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TEMPEST HWARANG – Vroom Vroom(템페스트 화랑 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638517</id>
+        <link href="https://tv.naver.com/v/40638517"/>
+        <updated>2023-09-23T11:11:30.749Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TEMPEST HYUK – Vroom Vroom(템페스트 혁 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638515</id>
+        <link href="https://tv.naver.com/v/40638515"/>
+        <updated>2023-09-23T11:11:30.751Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EVNNE Park JiHoo – TROUBLE(이븐 박지후 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638513</id>
+        <link href="https://tv.naver.com/v/40638513"/>
+        <updated>2023-09-23T11:11:30.753Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TEMPEST EUNCHAN – Vroom Vroom(템페스트 은찬 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40638489</id>
@@ -17,6 +80,20 @@
         <link href="https://tv.naver.com/v/40638488"/>
         <updated>2023-09-23T10:14:20.317Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VCHA Kaylee – Y.O.Universe(VCHA 케일리 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638339</id>
+        <link href="https://tv.naver.com/v/40638339"/>
+        <updated>2023-09-23T10:14:20.325Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VCHA Lexi – Y.O.Universe(VCHA 렉시 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638338</id>
+        <link href="https://tv.naver.com/v/40638338"/>
+        <updated>2023-09-23T10:14:20.327Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] mimiirose – Flirting(미미로즈 - 플러팅) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
@@ -54,27 +131,6 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] VCHA Kaylee – Y.O.Universe(VCHA 케일리 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40638339</id>
-        <link href="https://tv.naver.com/v/40638339"/>
-        <updated>2023-09-23T10:14:20.325Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VCHA Lexi – Y.O.Universe(VCHA 렉시 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40638338</id>
-        <link href="https://tv.naver.com/v/40638338"/>
-        <updated>2023-09-23T10:14:20.327Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY - Ready or Not(크래비티 – 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40638204</id>
-        <link href="https://tv.naver.com/v/40638204"/>
-        <updated>2023-09-23T10:14:20.328Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] VCHA - Y.O.Universe FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40638202</id>
         <link href="https://tv.naver.com/v/40638202"/>
@@ -82,11 +138,11 @@
         <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY JUNGMO – Ready or Not(크래비티 정모 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40638110</id>
-        <link href="https://tv.naver.com/v/40638110"/>
-        <updated>2023-09-23T10:14:20.337Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
+        <title type="html"><![CDATA[[예능연구소] CRAVITY - Ready or Not(크래비티 – 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638204</id>
+        <link href="https://tv.naver.com/v/40638204"/>
+        <updated>2023-09-23T10:14:20.328Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] VCHA Kendall – Y.O.Universe(VCHA 켄달 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
@@ -115,6 +171,13 @@
         <link href="https://tv.naver.com/v/40638106"/>
         <updated>2023-09-23T10:14:20.342Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CRAVITY JUNGMO – Ready or Not(크래비티 정모 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40638110</id>
+        <link href="https://tv.naver.com/v/40638110"/>
+        <updated>2023-09-23T10:14:20.337Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] EVNNE Ji YunSeo – TROUBLE(이븐 지윤서 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
@@ -150,68 +213,5 @@
         <link href="https://tv.naver.com/v/40637971"/>
         <updated>2023-09-23T10:14:20.348Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EVNNE - TROUBLE(이븐 – 트러블) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40637970</id>
-        <link href="https://tv.naver.com/v/40637970"/>
-        <updated>2023-09-23T10:14:20.349Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KEY – Good & Great(키 - 굿 앤 그레이트) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40637521</id>
-        <link href="https://tv.naver.com/v/40637521"/>
-        <updated>2023-09-23T10:14:20.350Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KEY - Good & Great(키 – 굿 앤 그레이트) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40637519</id>
-        <link href="https://tv.naver.com/v/40637519"/>
-        <updated>2023-09-23T10:14:20.355Z</updated>
-        <content type="html"><![CDATA[04:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 화사 - 아이 러브 마이 바디 (HWASA - I Love My Body), MBC 230916 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40635627</id>
-        <link href="https://tv.naver.com/v/40635627"/>
-        <updated>2023-09-23T09:13:38.695Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키 - 굿 앤 그레이트 (KEY - Good & Great), MBC 230923 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40635504</id>
-        <link href="https://tv.naver.com/v/40635504"/>
-        <updated>2023-09-23T08:16:47.586Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티 - 레디 오어 낫 (CRAVITY  - Ready or Not), MBC 230923 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40635295</id>
-        <link href="https://tv.naver.com/v/40635295"/>
-        <updated>2023-09-23T08:16:47.586Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - 렛츠 댄스 (LEE CHAE YEON - LET'S DANCE), MBC 230923 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40635164</id>
-        <link href="https://tv.naver.com/v/40635164"/>
-        <updated>2023-09-23T08:16:47.587Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈 - 겟 어 기타 (RIIZE - Get A Guitar), MBC 230923 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40635014</id>
-        <link href="https://tv.naver.com/v/40635014"/>
-        <updated>2023-09-23T08:16:47.587Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치 - 붐 (Rocket Punch - BOOM), MBC 230923 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40634889</id>
-        <link href="https://tv.naver.com/v/40634889"/>
-        <updated>2023-09-23T08:16:47.587Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
