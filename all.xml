@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-23T08:16:48.445Z</updated>
+    <updated>2023-09-23T09:13:39.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 화사 - 아이 러브 마이 바디 (HWASA - I Love My Body), MBC 230916 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40635627</id>
+        <link href="https://tv.naver.com/v/40635627"/>
+        <updated>2023-09-23T09:13:38.695Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키 - 굿 앤 그레이트 (KEY - Good & Great), MBC 230923 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40635504</id>
@@ -103,7 +110,7 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비춰 - 와이.오.유니버스 (VCHA - Y.O.Universe), MBC 230923 방송 (쇼! 음악중심)]]></title>
+        <title type="html"><![CDATA[VCHA - Y.O.Universe, MBC 230923 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40633683</id>
         <link href="https://tv.naver.com/v/40633683"/>
         <updated>2023-09-23T07:12:59.840Z</updated>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/40402683"/>
         <updated>2023-09-18T07:14:56.402Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – One Shot(판타지 보이즈 강민서 - 원샷) FanCam | Show! MusicCore | MBC230916방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40402681</id>
-        <link href="https://tv.naver.com/v/40402681"/>
-        <updated>2023-09-18T07:14:56.403Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
