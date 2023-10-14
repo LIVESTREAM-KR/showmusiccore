@@ -2,8 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-14T11:12:04.290Z</updated>
+    <updated>2023-10-14T12:26:48.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 - Parade(엔시티 일이칠 – 행진) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381294</id>
+        <link href="https://tv.naver.com/v/41381294"/>
+        <updated>2023-10-14T12:26:47.774Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN – Fact Check(엔시티 일이칠 해찬 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381292</id>
+        <link href="https://tv.naver.com/v/41381292"/>
+        <updated>2023-10-14T12:26:47.774Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK – Fact Check(엔시티 일이칠 마크 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381290</id>
+        <link href="https://tv.naver.com/v/41381290"/>
+        <updated>2023-10-14T12:26:47.790Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 - Fact Check(엔시티 일이칠 – 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381289</id>
+        <link href="https://tv.naver.com/v/41381289"/>
+        <updated>2023-10-14T12:26:47.790Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JAEHYUN – Fact Check(엔시티 일이칠 재현 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381154</id>
+        <link href="https://tv.naver.com/v/41381154"/>
+        <updated>2023-10-14T12:26:47.790Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEYONG – Fact Check(엔시티 일이칠 태용 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381153</id>
+        <link href="https://tv.naver.com/v/41381153"/>
+        <updated>2023-10-14T12:26:47.790Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JUNGWOO – Fact Check(엔시티 일이칠 정우 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381152</id>
+        <link href="https://tv.naver.com/v/41381152"/>
+        <updated>2023-10-14T12:26:47.790Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 YUTA – Fact Check(엔시티 일이칠 유타 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41381004</id>
+        <link href="https://tv.naver.com/v/41381004"/>
+        <updated>2023-10-14T12:26:47.790Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 DOYOUNG – Fact Check(엔시티 일이칠 도영 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41380965</id>
+        <link href="https://tv.naver.com/v/41380965"/>
+        <updated>2023-10-14T12:26:47.795Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JOHNNY – Fact Check(엔시티 일이칠 쟈니 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41380964</id>
+        <link href="https://tv.naver.com/v/41380964"/>
+        <updated>2023-10-14T12:26:47.795Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 10월 2주차 1위 앵콜 무대! 엔시티 127 - 불가사의; 不可思議 (NCT 127 - Fact Check), MBC 231014 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41379992</id>
+        <link href="https://tv.naver.com/v/41379992"/>
+        <updated>2023-10-14T12:26:47.795Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 – Fact Check(엔시티 일이칠 - 불가사의; 不可思議) 1위 직캠 FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41379988</id>
+        <link href="https://tv.naver.com/v/41379988"/>
+        <updated>2023-10-14T12:26:47.795Z</updated>
+        <content type="html"><![CDATA[07:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 키 - 굿 앤 그레이트 (KEY - Good & Great), MBC 230923 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/41376114</id>
@@ -129,89 +213,5 @@
         <link href="https://tv.naver.com/v/41372147"/>
         <updated>2023-10-14T07:12:49.012Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - 스파이스 (n.SSign - SPICE), MBC 231014 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41371859</id>
-        <link href="https://tv.naver.com/v/41371859"/>
-        <updated>2023-10-14T07:12:49.014Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231014 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41371857</id>
-        <link href="https://tv.naver.com/v/41371857"/>
-        <updated>2023-10-14T07:12:49.016Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이븐 - 트러블 (EVNNE - TROUBLE), MBC 231014 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41371855</id>
-        <link href="https://tv.naver.com/v/41371855"/>
-        <updated>2023-10-14T07:12:49.018Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 뉴 투모로우 (FANTASY BOYS - New Tomorrow), MBC 231014 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41371533</id>
-        <link href="https://tv.naver.com/v/41371533"/>
-        <updated>2023-10-14T07:12:49.020Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티투메이저 - 퍼스트 클래스 (82MAJOR - FIRST CLASS), MBC 231014 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41371413</id>
-        <link href="https://tv.naver.com/v/41371413"/>
-        <updated>2023-10-14T07:12:49.031Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백아 - 미완성 (Baek A - SEMO), MBC 231014 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41371160</id>
-        <link href="https://tv.naver.com/v/41371160"/>
-        <updated>2023-10-14T07:12:49.041Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY – Ready or Not(크래비티 - 레디 오어 낫) | Show! Music Core (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40991483</id>
-        <link href="https://tv.naver.com/v/40991483"/>
-        <updated>2023-10-13T07:14:39.249Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] KEY – Good & Great(키 - 굿 앤 그레이트) | Show! Music Core (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40991205</id>
-        <link href="https://tv.naver.com/v/40991205"/>
-        <updated>2023-10-11T07:14:51.932Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] HWASA – I Love My Body(화사 - 아이 러브 마이 바디) | Show! Music Core (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40966844</id>
-        <link href="https://tv.naver.com/v/40966844"/>
-        <updated>2023-10-06T07:14:04.402Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] September TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40729989</id>
-        <link href="https://tv.naver.com/v/40729989"/>
-        <updated>2023-10-01T08:17:35.034Z</updated>
-        <content type="html"><![CDATA[27:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE – Get A Guitar(라이즈 - 겟 어 기타) | Show! Music Core (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40723853</id>
-        <link href="https://tv.naver.com/v/40723853"/>
-        <updated>2023-09-29T07:13:56.475Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] POW YORCH - Favorite(파우 요치 - 페이보릿) Close-up Cam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40726391</id>
-        <link href="https://tv.naver.com/v/40726391"/>
-        <updated>2023-09-26T03:15:31.345Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
