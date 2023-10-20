@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-20T07:14:01.735Z</updated>
+    <updated>2023-10-20T08:19:14.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 임영웅.zip 📂 이제 나만 믿어요부터 Do or Die까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41645003</id>
+        <link href="https://tv.naver.com/v/41645003"/>
+        <updated>2023-10-20T08:19:13.233Z</updated>
+        <content type="html"><![CDATA[26:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 Baddie까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41499822</id>
+        <link href="https://tv.naver.com/v/41499822"/>
+        <updated>2023-10-20T08:19:13.234Z</updated>
+        <content type="html"><![CDATA[25:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS – One Shot(판타지 보이즈 - 원 샷) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/41634064</id>
@@ -199,19 +213,5 @@
         <link href="https://tv.naver.com/v/41425391"/>
         <updated>2023-10-16T02:24:27.630Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – Off The Record(아이브 장원영 - 오프 더 레코드) FanCam | Show! MusicCore | MBC231014 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41425390</id>
-        <link href="https://tv.naver.com/v/41425390"/>
-        <updated>2023-10-16T02:24:27.630Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - Off The Record(아이브 – 오프 더 레코드) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41425139</id>
-        <link href="https://tv.naver.com/v/41425139"/>
-        <updated>2023-10-16T02:24:27.630Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
