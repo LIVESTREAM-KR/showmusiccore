@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-23T09:16:42.863Z</updated>
+    <updated>2023-10-23T10:17:18.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방]]></title>
+        <id>https://tv.naver.com/v/41761360</id>
+        <link href="https://tv.naver.com/v/41761360"/>
+        <updated>2023-10-23T10:17:17.404Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS Oh HyeonTae - New Tomorrow(판타지 보이즈 오현태-뉴 투모로우)Close-upCam|MusicCore|MBC231014방]]></title>
         <id>https://tv.naver.com/v/41760868</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41692758"/>
         <updated>2023-10-21T12:26:37.877Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY - Cheese(크래비티 – 치즈) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692640</id>
-        <link href="https://tv.naver.com/v/41692640"/>
-        <updated>2023-10-21T12:26:37.878Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
