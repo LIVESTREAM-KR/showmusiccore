@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-04T06:19:08.831Z</updated>
+    <updated>2023-11-04T07:14:19.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42331487</id>
+        <link href="https://tv.naver.com/v/42331487"/>
+        <updated>2023-11-04T07:14:18.775Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니쥬 - 하트리스 (NiziU - HEARTRIS), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42331326</id>
+        <link href="https://tv.naver.com/v/42331326"/>
+        <updated>2023-11-04T07:14:18.778Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 정했어 (YOUNITE - Love it), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42331025</id>
+        <link href="https://tv.naver.com/v/42331025"/>
+        <updated>2023-11-04T07:14:18.781Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영 - 유스 (Catch The Young - YOUTH!!!), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42330847</id>
+        <link href="https://tv.naver.com/v/42330847"/>
+        <updated>2023-11-04T07:14:18.783Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] RIIZE.zip 📂 Get A Guitar부터 Talk Saxy까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/42086977</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/42014829"/>
         <updated>2023-10-28T11:11:56.381Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – Baddie(아이브 장원영 - 배디) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42014828</id>
-        <link href="https://tv.naver.com/v/42014828"/>
-        <updated>2023-10-28T11:11:56.383Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL – Baddie(아이브 가을 - 배디) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42014825</id>
-        <link href="https://tv.naver.com/v/42014825"/>
-        <updated>2023-10-28T11:11:56.389Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie SIYOON – DANG!(hocus pocus)(빌리 시윤 - 댕! (호커스 포커스)) FanCam |Show!MusicCore|MBC231028방]]></title>
-        <id>https://tv.naver.com/v/42014802</id>
-        <link href="https://tv.naver.com/v/42014802"/>
-        <updated>2023-10-28T11:11:56.397Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - Baddie(아이브 – 배디) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42014678</id>
-        <link href="https://tv.naver.com/v/42014678"/>
-        <updated>2023-10-28T11:11:56.401Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
