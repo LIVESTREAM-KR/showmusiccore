@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-15T07:14:23.231Z</updated>
+    <updated>2023-11-15T08:19:39.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE.zip 📂 In Bloom부터 CRUSH(가시)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42825321</id>
+        <link href="https://tv.naver.com/v/42825321"/>
+        <updated>2023-11-15T08:19:38.541Z</updated>
+        <content type="html"><![CDATA[12:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] POW – Dazzling(파우 - 다즐링) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42826719</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/42689523"/>
         <updated>2023-11-11T12:26:49.494Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YOUNGJAE - Do It(영재 – 두 잇) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42689522</id>
-        <link href="https://tv.naver.com/v/42689522"/>
-        <updated>2023-11-11T12:26:49.495Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
