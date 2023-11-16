@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-16T07:14:21.778Z</updated>
+    <updated>2023-11-16T08:19:46.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids.zip 📂 District 9부터 락(樂)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42866565</id>
+        <link href="https://tv.naver.com/v/42866565"/>
+        <updated>2023-11-16T08:19:45.979Z</updated>
+        <content type="html"><![CDATA[01:20:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ZEROBASEONE.zip 📂 In Bloom부터 CRUSH(가시)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42825321</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/42689550"/>
         <updated>2023-11-11T12:26:49.490Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NiziU - HEARTRIS(니쥬 – 하트리스) FanCam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42689523</id>
-        <link href="https://tv.naver.com/v/42689523"/>
-        <updated>2023-11-11T12:26:49.494Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
