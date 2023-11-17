@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-17T08:19:33.758Z</updated>
+    <updated>2023-11-17T09:15:33.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] tripleS EVOLution – Invincible(트리플에스 에볼루션 - 인빈시블) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43001850</id>
+        <link href="https://tv.naver.com/v/43001850"/>
+        <updated>2023-11-17T09:15:33.109Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] aespa.zip 📂 Black Mamba부터 Drama까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42982349</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/42689660"/>
         <updated>2023-11-11T12:26:49.488Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE JULIE - Bad News(키스오브라이프 쥴리 - 배드 뉴스) FanCam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42689659</id>
-        <link href="https://tv.naver.com/v/42689659"/>
-        <updated>2023-11-11T12:26:49.489Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
