@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-24T07:14:25.916Z</updated>
+    <updated>2023-11-24T08:19:22.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RedVelvet.zip 📂 Happiness(행복)부터 Chill Kill까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43324654</id>
+        <link href="https://tv.naver.com/v/43324654"/>
+        <updated>2023-11-24T08:19:21.618Z</updated>
+        <content type="html"><![CDATA[01:06:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43289770</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/43097229"/>
         <updated>2023-11-20T05:15:07.074Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Crush – Ego(크러쉬 - 미워) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43096983</id>
-        <link href="https://tv.naver.com/v/43096983"/>
-        <updated>2023-11-20T05:15:07.074Z</updated>
-        <content type="html"><![CDATA[04:37]]></content>
     </entry>
 </feed>
