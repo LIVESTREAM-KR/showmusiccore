@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-25T06:19:09.007Z</updated>
+    <updated>2023-11-25T07:13:33.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앰퍼샌드원 - 온 앤드 온 (AMPERS&ONE - On And On), MBC 231125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43386084</id>
+        <link href="https://tv.naver.com/v/43386084"/>
+        <updated>2023-11-25T07:13:32.479Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스트샤인- 더블 다운 (EASTSHINE - Double Down), MBC 231125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43385899</id>
+        <link href="https://tv.naver.com/v/43385899"/>
+        <updated>2023-11-25T07:13:32.482Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] RedVelvet.zip 📂 Happiness(행복)부터 Chill Kill까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43324654</id>
@@ -199,19 +213,5 @@
         <link href="https://tv.naver.com/v/43099484"/>
         <updated>2023-11-20T06:21:37.292Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Potential(판타지 보이즈 히카리 - 포텐셜) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43098618</id>
-        <link href="https://tv.naver.com/v/43098618"/>
-        <updated>2023-11-20T06:21:37.292Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DoYou – Ego(두유 - 미워) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43097229</id>
-        <link href="https://tv.naver.com/v/43097229"/>
-        <updated>2023-11-20T05:15:07.074Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
