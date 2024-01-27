@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-27T13:14:56.038Z</updated>
+    <updated>2024-01-27T14:13:21.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS SHINYU – Oh Mymy : 7s(투어스 신유 - 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46353107</id>
+        <link href="https://tv.naver.com/v/46353107"/>
+        <updated>2024-01-27T14:13:20.976Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS - Oh Mymy : 7s(투어스 – 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46352629</id>
+        <link href="https://tv.naver.com/v/46352629"/>
+        <updated>2024-01-27T14:13:20.978Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX PARKWOOJIN – GRAB ME(에이비식스 박우진 - 그랩 미) FanCam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46351790</id>
+        <link href="https://tv.naver.com/v/46351790"/>
+        <updated>2024-01-27T14:13:20.983Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] AB6IX DAEHWI – GRAB ME(에이비식스 이대휘 - 그랩 미) FanCam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46351071</id>
@@ -52,26 +73,5 @@
         <link href="https://tv.naver.com/v/46349591"/>
         <updated>2024-01-27T12:24:26.943Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO – DASH(엔믹스 지우 - 대시) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46349306</id>
-        <link href="https://tv.naver.com/v/46349306"/>
-        <updated>2024-01-27T12:24:26.943Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – DASH(엔믹스 규진 - 대시) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46349188</id>
-        <link href="https://tv.naver.com/v/46349188"/>
-        <updated>2024-01-27T12:24:26.947Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY – DASH(엔믹스 릴리 - 대시) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46349054</id>
-        <link href="https://tv.naver.com/v/46349054"/>
-        <updated>2024-01-27T12:24:26.948Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
