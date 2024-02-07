@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-07T06:18:58.858Z</updated>
+    <updated>2024-02-07T07:14:24.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Super Lady까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46742023</id>
+        <link href="https://tv.naver.com/v/46742023"/>
+        <updated>2024-02-07T07:14:23.592Z</updated>
+        <content type="html"><![CDATA[39:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA – Super Lady ((여자)아이들 슈화 - 슈퍼 레이디) Close-up Cam|Show!MusicCore|MBC240203방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46730141</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/46675844"/>
         <updated>2024-02-03T11:12:26.679Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YENA- Good Morning (최예나 – 굿모닝) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46674185</id>
-        <link href="https://tv.naver.com/v/46674185"/>
-        <updated>2024-02-03T10:14:14.784Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
