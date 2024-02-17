@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-17T06:18:26.227Z</updated>
+    <updated>2024-02-17T07:13:16.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인 - 해피 앤드 (n.SSign - Happy &), MBC 240217 방송]]></title>
+        <id>https://tv.naver.com/v/47199734</id>
+        <link href="https://tv.naver.com/v/47199734"/>
+        <updated>2024-02-17T07:13:16.316Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이머스 - 썸바디 (AIMERS - Somebody), MBC 240217 방송]]></title>
+        <id>https://tv.naver.com/v/47199733</id>
+        <link href="https://tv.naver.com/v/47199733"/>
+        <updated>2024-02-17T07:13:16.319Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올아워즈 - 와오 와오 (ALL(H)OURS - WAO WAO), MBC 240217 방송]]></title>
+        <id>https://tv.naver.com/v/47199513</id>
+        <link href="https://tv.naver.com/v/47199513"/>
+        <updated>2024-02-17T07:13:16.325Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이몬 - 번 업 (DXMON - Burn Up), MBC 240217 방송]]></title>
+        <id>https://tv.naver.com/v/47199410</id>
+        <link href="https://tv.naver.com/v/47199410"/>
+        <updated>2024-02-17T07:13:16.326Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규빈 - 리얼리 라이크 유 (Gyubin - Really Like You), MBC 240217 방송]]></title>
+        <id>https://tv.naver.com/v/47199153</id>
+        <link href="https://tv.naver.com/v/47199153"/>
+        <updated>2024-02-17T07:13:16.327Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX - DASH(엔믹스 - 대쉬) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/47092693</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/46773071"/>
         <updated>2024-02-09T06:19:07.543Z</updated>
         <content type="html"><![CDATA[58:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Super Lady까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/46742023</id>
-        <link href="https://tv.naver.com/v/46742023"/>
-        <updated>2024-02-07T07:14:23.592Z</updated>
-        <content type="html"><![CDATA[39:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA – Super Lady ((여자)아이들 슈화 - 슈퍼 레이디) Close-up Cam|Show!MusicCore|MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46730141</id>
-        <link href="https://tv.naver.com/v/46730141"/>
-        <updated>2024-02-05T06:19:22.643Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE MIYEON – Super Lady ((여자)아이들 미연 - 슈퍼 레이디) Close-up Cam|Show!MusicCore|MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46730136</id>
-        <link href="https://tv.naver.com/v/46730136"/>
-        <updated>2024-02-05T06:19:22.645Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU – plot twist(투어스 신유 - 첫 만남은 계획대로 되지 않아) Close-up Cam | Show! MusicCore | MBC2402]]></title>
-        <id>https://tv.naver.com/v/46727902</id>
-        <link href="https://tv.naver.com/v/46727902"/>
-        <updated>2024-02-05T06:19:22.648Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS HANJIN – plot twist(투어스 한진 - 첫 만남은 계획대로 되지 않아) Close-up Cam | Show! MusicCore | MBC2402]]></title>
-        <id>https://tv.naver.com/v/46727646</id>
-        <link href="https://tv.naver.com/v/46727646"/>
-        <updated>2024-02-05T06:19:22.648Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
