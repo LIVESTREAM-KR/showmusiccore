@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-09T07:12:59.797Z</updated>
+    <updated>2024-03-09T08:17:35.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[3월 2주차 1위 플레이브 - 웨이 포 러브 (PLAVE - WAY 4 LUV), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48071570</id>
+        <link href="https://tv.naver.com/v/48071570"/>
+        <updated>2024-03-09T08:17:34.654Z</updated>
+        <content type="html"><![CDATA[02:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태용 - 탭 (TAEYONG - TAP), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48071236</id>
+        <link href="https://tv.naver.com/v/48071236"/>
+        <updated>2024-03-09T08:17:34.655Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 - 스마트 (LE SSERAFIM - Smart), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48071205</id>
+        <link href="https://tv.naver.com/v/48071205"/>
+        <updated>2024-03-09T08:17:34.658Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티 - 러브 오어 다이 (CRAVITY - Love or Die), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48071085</id>
+        <link href="https://tv.naver.com/v/48071085"/>
+        <updated>2024-03-09T08:17:34.660Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플레이브 - 웨이 포 러브 (PLAVE - WAY 4 LUV), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48071083</id>
+        <link href="https://tv.naver.com/v/48071083"/>
+        <updated>2024-03-09T08:17:34.662Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 위 돈트 스톱 (xikers - We Don't Stop), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48070960</id>
+        <link href="https://tv.naver.com/v/48070960"/>
+        <updated>2024-03-09T08:17:34.663Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 레드 선 (xikers - Red Sun), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48070828</id>
+        <link href="https://tv.naver.com/v/48070828"/>
+        <updated>2024-03-09T08:17:34.664Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 위시 - 위시 (NCT WISH - WISH), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48070827</id>
+        <link href="https://tv.naver.com/v/48070827"/>
+        <updated>2024-03-09T08:17:34.665Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 위시 - 세일 어웨이 (NCT WISH - Sail Away), MBC 240309 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48070651</id>
+        <link href="https://tv.naver.com/v/48070651"/>
+        <updated>2024-03-09T08:17:34.666Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이스 - 마이 걸 (A.C.E - My Girl), MBC 240309 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/48070294</id>
         <link href="https://tv.naver.com/v/48070294"/>
         <updated>2024-03-09T07:12:59.210Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - 해피 앤드 (n.SSign - Happy &), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48070126</id>
-        <link href="https://tv.naver.com/v/48070126"/>
-        <updated>2024-03-09T07:12:59.210Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비 - 다이아몬드 (TRI.BE - Diamond), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48070124</id>
-        <link href="https://tv.naver.com/v/48070124"/>
-        <updated>2024-03-09T07:12:59.210Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 - 하이틴 (The Wind - H! TEEN), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069846</id>
-        <link href="https://tv.naver.com/v/48069846"/>
-        <updated>2024-03-09T07:12:59.212Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린 - 온 마이 립스 (ICHILLIN - ON MY LIPS), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069825</id>
-        <link href="https://tv.naver.com/v/48069825"/>
-        <updated>2024-03-09T07:12:59.213Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스페로 - 기도 (Espero - Pray), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069823</id>
-        <link href="https://tv.naver.com/v/48069823"/>
-        <updated>2024-03-09T07:12:59.215Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일민 - 손 편지 (IL Min - The Letter), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069656</id>
-        <link href="https://tv.naver.com/v/48069656"/>
-        <updated>2024-03-09T07:12:59.217Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이스토리 - 알파 (BOY STORY - Alpha), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069435</id>
-        <link href="https://tv.naver.com/v/48069435"/>
-        <updated>2024-03-09T07:12:59.219Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노매드 - 노 프레셔 (NOMAD - No pressure), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069434</id>
-        <link href="https://tv.naver.com/v/48069434"/>
-        <updated>2024-03-09T07:12:59.220Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희재 - 우야노 (Kim Hee Jae - What should I do), MBC 240309 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48069057</id>
-        <link href="https://tv.naver.com/v/48069057"/>
-        <updated>2024-03-09T07:12:59.222Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
