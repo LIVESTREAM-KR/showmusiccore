@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-15T01:04:46.526Z</updated>
+    <updated>2024-03-15T02:21:23.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Noah - (플레이브 노아) - WAY 4 LUV | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48344204</id>
+        <link href="https://tv.naver.com/v/48344204"/>
+        <updated>2024-03-15T02:21:22.553Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Hamin (플레이브 하민) - WAY 4 LUV | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48343928</id>
+        <link href="https://tv.naver.com/v/48343928"/>
+        <updated>2024-03-15T02:21:22.560Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Yejun - (플레이브 예준) - WAY 4 LUV | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48343925</id>
+        <link href="https://tv.naver.com/v/48343925"/>
+        <updated>2024-03-15T02:21:22.562Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Eunho - (플레이브 은호) - WAY 4 LUV | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48343658</id>
+        <link href="https://tv.naver.com/v/48343658"/>
+        <updated>2024-03-15T02:21:22.563Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Bamby (플레이브 밤비) - WAY 4 LUV | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48343460</id>
+        <link href="https://tv.naver.com/v/48343460"/>
+        <updated>2024-03-15T02:21:22.565Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] PLAVE (플레이브) – WAY 4 LUV 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48342732</id>
+        <link href="https://tv.naver.com/v/48342732"/>
+        <updated>2024-03-15T02:21:22.566Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] White Day.zip 📂 Show! Music Core White Day Special Compilation]]></title>
         <id>https://tv.naver.com/v/48189220</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/48142910"/>
         <updated>2024-03-11T09:16:46.982Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – WISH | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48142607</id>
-        <link href="https://tv.naver.com/v/48142607"/>
-        <updated>2024-03-11T09:16:46.983Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 유아(오마이걸), 3월 둘째 주 음악중심 MC 컷 모음!, MBC 240309 방송]]></title>
-        <id>https://tv.naver.com/v/48142273</id>
-        <link href="https://tv.naver.com/v/48142273"/>
-        <updated>2024-03-11T09:16:46.984Z</updated>
-        <content type="html"><![CDATA[11:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) – Smart | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48130062</id>
-        <link href="https://tv.naver.com/v/48130062"/>
-        <updated>2024-03-11T06:20:24.653Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – Smart | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48129654</id>
-        <link href="https://tv.naver.com/v/48129654"/>
-        <updated>2024-03-11T06:20:24.659Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH RIKU (엔시티 위시 리쿠) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48127042</id>
-        <link href="https://tv.naver.com/v/48127042"/>
-        <updated>2024-03-11T05:16:24.742Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH SION (엔시티 위시 시온) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48127039</id>
-        <link href="https://tv.naver.com/v/48127039"/>
-        <updated>2024-03-11T05:16:24.744Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
