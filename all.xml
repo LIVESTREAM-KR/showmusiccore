@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-01T08:20:55.472Z</updated>
+    <updated>2024-04-01T09:16:52.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49196289</id>
+        <link href="https://tv.naver.com/v/49196289"/>
+        <updated>2024-04-01T09:16:52.263Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) - UNKNOWN | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49196284</id>
+        <link href="https://tv.naver.com/v/49196284"/>
+        <updated>2024-04-01T09:16:52.263Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN (엔시티 드림 해찬) - UNKNOWN | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49195982</id>
+        <link href="https://tv.naver.com/v/49195982"/>
+        <updated>2024-04-01T09:16:52.265Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM CHENLE (엔시티 드림 천러) - UNKNOWN 직캠 | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49195650</id>
@@ -52,26 +73,5 @@
         <link href="https://tv.naver.com/v/49117063"/>
         <updated>2024-03-31T08:19:00.917Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49146313</id>
-        <link href="https://tv.naver.com/v/49146313"/>
-        <updated>2024-03-31T08:19:00.918Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49146312</id>
-        <link href="https://tv.naver.com/v/49146312"/>
-        <updated>2024-03-31T08:19:00.918Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM (엔시티 드림) – UNKNOWN 풀캠 | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49146141</id>
-        <link href="https://tv.naver.com/v/49146141"/>
-        <updated>2024-03-31T07:13:58.875Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
