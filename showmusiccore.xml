@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-13T11:11:08.782Z</updated>
+    <updated>2024-04-13T12:23:26.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT (아일릿) – Magnetic 1위 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788671</id>
-        <link href="https://tv.naver.com/v/49788671"/>
-        <updated>2024-04-13T11:11:08.149Z</updated>
-        <content type="html"><![CDATA[05:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY MINHEE (크래비티 민희) - C’EST LA VIE  직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788668</id>
-        <link href="https://tv.naver.com/v/49788668"/>
-        <updated>2024-04-13T11:11:08.150Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CRAVITY HYEONGJUN (크래비티 형준) – C’est La Vie 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
         <id>https://tv.naver.com/v/49788665</id>
@@ -34,6 +20,27 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ILLIT (아일릿) – Magnetic 1위 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49788671</id>
+        <link href="https://tv.naver.com/v/49788671"/>
+        <updated>2024-04-13T11:11:08.149Z</updated>
+        <content type="html"><![CDATA[05:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CRAVITY MINHEE (크래비티 민희) - C’EST LA VIE  직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49788668</id>
+        <link href="https://tv.naver.com/v/49788668"/>
+        <updated>2024-04-13T11:11:08.150Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TOMORROW X TOGETHER TAEHYUN(투모로우바이투게더 태현) - Deja Vu 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49788341</id>
+        <link href="https://tv.naver.com/v/49788341"/>
+        <updated>2024-04-13T11:11:08.160Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분] 4월 2주차 1위 아일릿 - 마그네틱 (ILLIT - Magnetic), MBC 240413 방송]]></title>
         <id>https://tv.naver.com/v/49788353</id>
         <link href="https://tv.naver.com/v/49788353"/>
@@ -46,13 +53,6 @@
         <link href="https://tv.naver.com/v/49788352"/>
         <updated>2024-04-13T11:11:08.158Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TOMORROW X TOGETHER TAEHYUN(투모로우바이투게더 태현) - Deja Vu 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788341</id>
-        <link href="https://tv.naver.com/v/49788341"/>
-        <updated>2024-04-13T11:11:08.160Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ILLIT MOKA (아일릿 모카) - Magnetic 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
