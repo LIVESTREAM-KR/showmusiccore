@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-26T07:16:09.619Z</updated>
+    <updated>2024-04-26T08:19:22.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ILLIT(아일릿) - Magnetic | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/50433434</id>
+        <link href="https://tv.naver.com/v/50433434"/>
+        <updated>2024-04-26T08:19:21.794Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 음중 임파서블 1주차 ✨사녹타임✨에서는 무슨 일이? #RIIZE 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/50461639</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50158797"/>
         <updated>2024-04-20T11:12:06.189Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONF MINKYUN (온앤오프 민균) – BYE MY MONSTER 직캠 | 쇼! 음악중심 | MBC240420방송]]></title>
-        <id>https://tv.naver.com/v/50158794</id>
-        <link href="https://tv.naver.com/v/50158794"/>
-        <updated>2024-04-20T11:12:06.191Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
