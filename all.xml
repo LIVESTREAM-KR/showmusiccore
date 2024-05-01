@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-01T07:18:49.035Z</updated>
+    <updated>2024-05-01T08:23:04.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] April TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/50661933</id>
+        <link href="https://tv.naver.com/v/50661933"/>
+        <updated>2024-05-01T08:23:03.827Z</updated>
+        <content type="html"><![CDATA[29:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON (라이즈 앤톤) – Impossible | Show! MusicCore | MBC240427방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/50662495</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/50595376"/>
         <updated>2024-04-29T09:17:33.994Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - SWEAT | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50595163</id>
-        <link href="https://tv.naver.com/v/50595163"/>
-        <updated>2024-04-29T09:17:33.996Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
