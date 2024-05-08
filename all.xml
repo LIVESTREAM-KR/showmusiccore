@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T07:16:23.280Z</updated>
+    <updated>2024-05-08T08:18:22.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51041800</id>
+        <link href="https://tv.naver.com/v/51041800"/>
+        <updated>2024-05-08T08:18:21.480Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 해야(HEYA)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/50998508</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/50866687"/>
         <updated>2024-05-04T12:26:52.928Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lee ChanWon (이찬원) – 하늘 여행 직캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50866685</id>
-        <link href="https://tv.naver.com/v/50866685"/>
-        <updated>2024-05-04T12:26:52.930Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
 </feed>
