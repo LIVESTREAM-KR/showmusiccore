@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-18T06:20:17.573Z</updated>
+    <updated>2024-05-18T07:16:16.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티아이오티 - ROCK THANG (TIOT - ROCK THANG), MBC 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51533931</id>
+        <link href="https://tv.naver.com/v/51533931"/>
+        <updated>2024-05-18T07:16:16.000Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나우어데이즈 - TICKET (NOWADAYS - TICKET), MBC 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51533930</id>
+        <link href="https://tv.naver.com/v/51533930"/>
+        <updated>2024-05-18T07:16:16.002Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유다연 - KEEP IT LOW (YOU DAYEON - KEEP IT LOW), MBC 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51533774</id>
+        <link href="https://tv.naver.com/v/51533774"/>
+        <updated>2024-05-18T07:16:16.004Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설하윤 - 설렌다 굿싱 (Seol Hayoon - Goodbye Single), MBC 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51533460</id>
+        <link href="https://tv.naver.com/v/51533460"/>
+        <updated>2024-05-18T07:16:16.005Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] BOYNEXTDOOR (보이넥스트도어) - Earth, Wind & Fire]]></title>
         <id>https://tv.naver.com/v/51436009</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/51286997"/>
         <updated>2024-05-13T10:17:48.143Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) - 해야 (HEYA)  | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51286786</id>
-        <link href="https://tv.naver.com/v/51286786"/>
-        <updated>2024-05-13T10:17:48.143Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN HOSHI (세븐틴 호시) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51286784</id>
-        <link href="https://tv.naver.com/v/51286784"/>
-        <updated>2024-05-13T10:17:48.145Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN JUN (세븐틴 준) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51286783</id>
-        <link href="https://tv.naver.com/v/51286783"/>
-        <updated>2024-05-13T10:17:48.145Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN WONWOO (세븐틴 원우) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51286737</id>
-        <link href="https://tv.naver.com/v/51286737"/>
-        <updated>2024-05-13T10:17:48.147Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
