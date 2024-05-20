@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-20T07:17:27.540Z</updated>
+    <updated>2024-05-20T08:21:01.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) - Supernova | 쇼! 음악중심 | MBC240518방송]]></title>
+        <id>https://tv.naver.com/v/51609405</id>
+        <link href="https://tv.naver.com/v/51609405"/>
+        <updated>2024-05-20T08:21:00.500Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] aespa WINTER (에스파 윈터) - Supernova | 쇼! 음악중심 | MBC240518방송]]></title>
         <id>https://tv.naver.com/v/51609119</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51540349"/>
         <updated>2024-05-18T11:12:09.859Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW (제로베이스원 석매튜) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51540348</id>
-        <link href="https://tv.naver.com/v/51540348"/>
-        <updated>2024-05-18T11:12:09.860Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
