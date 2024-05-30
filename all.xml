@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-30T08:21:16.681Z</updated>
+    <updated>2024-05-30T09:18:22.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[직캠 보고서🔍] 제이오원의 한국어 도전기🤟 #JO1 #shorts (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52132549</id>
+        <link href="https://tv.naver.com/v/52132549"/>
+        <updated>2024-05-30T09:18:22.135Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[직캠 보고서🔍] 이거지예 신인미 낭낭한 넥스지예😎 #NEXZ#shorts (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52132547</id>
+        <link href="https://tv.naver.com/v/52132547"/>
+        <updated>2024-05-30T09:18:22.137Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 제베원이 안경콤을 자극해...😯 #ZEROBASEONE #FeelthePOP #Shorts (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/52115235</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/51959715"/>
         <updated>2024-05-27T09:17:58.257Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - Feel the POP | 쇼! 음악중심 | MBC240525방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51959714</id>
-        <link href="https://tv.naver.com/v/51959714"/>
-        <updated>2024-05-27T09:17:58.257Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE RICKY (제로베이스원 리키) - Feel the POP | 쇼! 음악중심 | MBC240525방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51959713</id>
-        <link href="https://tv.naver.com/v/51959713"/>
-        <updated>2024-05-27T09:17:58.257Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
