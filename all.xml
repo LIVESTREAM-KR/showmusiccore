@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-01T09:19:01.307Z</updated>
+    <updated>2024-06-01T10:18:10.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa NINGNING (에스파 닝닝) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227872</id>
+        <link href="https://tv.naver.com/v/52227872"/>
+        <updated>2024-06-01T10:18:10.209Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa KARINA (에스파 카리나) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227871</id>
+        <link href="https://tv.naver.com/v/52227871"/>
+        <updated>2024-06-01T10:18:10.212Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa WINTER (에스파 윈터) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227745</id>
+        <link href="https://tv.naver.com/v/52227745"/>
+        <updated>2024-06-01T10:18:10.213Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa GISELLE (에스파 지젤) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227744</id>
+        <link href="https://tv.naver.com/v/52227744"/>
+        <updated>2024-06-01T10:18:10.215Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa (에스파) – Armageddon 풀캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227565</id>
+        <link href="https://tv.naver.com/v/52227565"/>
+        <updated>2024-06-01T10:18:10.216Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 6월 1주차 1위 에스파 - Supernova (aespa - Supernova), MBC 240601 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/52226199</id>
@@ -38,40 +73,5 @@
         <link href="https://tv.naver.com/v/52224192"/>
         <updated>2024-06-01T08:20:16.652Z</updated>
         <content type="html"><![CDATA[02:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - WORK (ATEEZ - WORK), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52224151</id>
-        <link href="https://tv.naver.com/v/52224151"/>
-        <updated>2024-06-01T08:20:16.654Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - Empty Box (ATEEZ - Empty Box), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223999</id>
-        <link href="https://tv.naver.com/v/52223999"/>
-        <updated>2024-06-01T08:20:16.655Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첸 - 빈 집 (CHEN - Empty), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223820</id>
-        <link href="https://tv.naver.com/v/52223820"/>
-        <updated>2024-06-01T08:20:16.656Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원 - Feel the POP (ZEROBASEONE - Feel the POP), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223663</id>
-        <link href="https://tv.naver.com/v/52223663"/>
-        <updated>2024-06-01T08:20:16.658Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 - Now (Original by Fin.K.L) (ONEUS - Now (Original by Fin.K.L)), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223541</id>
-        <link href="https://tv.naver.com/v/52223541"/>
-        <updated>2024-06-01T08:20:16.659Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
