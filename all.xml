@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-17T07:16:07.332Z</updated>
+    <updated>2024-06-17T08:21:45.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV XIAOJUN (웨이션브이 샤오쥔) - Give Me That 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/55278045</id>
+        <link href="https://tv.naver.com/v/55278045"/>
+        <updated>2024-06-17T08:21:44.441Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV TEN (웨이션브이 텐) - Give Me That | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/55277082</id>
+        <link href="https://tv.naver.com/v/55277082"/>
+        <updated>2024-06-17T08:21:44.441Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] WayV HENDERY (웨이션브이 헨드리) - Give Me That 세로캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/55277079</id>
+        <link href="https://tv.naver.com/v/55277079"/>
+        <updated>2024-06-17T08:21:44.443Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] WayV YANGYANG (웨이션브이 양양) - Give Me That 세로캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/55276033</id>
@@ -52,26 +73,5 @@
         <link href="https://tv.naver.com/v/54837281"/>
         <updated>2024-06-15T12:30:16.741Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] Kep1er (케플러) – Shooting Star 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54837276</id>
-        <link href="https://tv.naver.com/v/54837276"/>
-        <updated>2024-06-15T12:30:16.741Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Kep1er MASHIRO (케플러 마시로) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54836375</id>
-        <link href="https://tv.naver.com/v/54836375"/>
-        <updated>2024-06-15T12:30:16.741Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Kep1er YUJIN (케플러 최유진) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54836372</id>
-        <link href="https://tv.naver.com/v/54836372"/>
-        <updated>2024-06-15T12:30:16.741Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
