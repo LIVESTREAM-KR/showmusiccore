@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T05:16:05.885Z</updated>
+    <updated>2024-06-20T06:23:10.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 역대급 돌판 센터 퀸나연의 컴백이라😎 (+지효 응원왔죠💖) #NAYEON 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/56020013</id>
+        <link href="https://tv.naver.com/v/56020013"/>
+        <updated>2024-06-20T06:23:09.527Z</updated>
+        <content type="html"><![CDATA[07:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[직캠보고서 미리보기🔍] 이게 트와이스야~ 나연웅니 응원하러 온 지효☘️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/56018028</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/55269999"/>
         <updated>2024-06-17T07:16:06.748Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 , 6월 셋째 주 음악중심 MC 컷 모음!, MBC 240615 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/55243694</id>
-        <link href="https://tv.naver.com/v/55243694"/>
-        <updated>2024-06-17T05:20:11.368Z</updated>
-        <content type="html"><![CDATA[14:33]]></content>
     </entry>
 </feed>
