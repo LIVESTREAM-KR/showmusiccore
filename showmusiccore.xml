@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-06T06:21:47.462Z</updated>
+    <updated>2024-07-06T07:14:38.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키스 오브 라이프 - Sticky (KISS OF LIFE - Sticky), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57078687</id>
+        <link href="https://tv.naver.com/v/57078687"/>
+        <updated>2024-07-06T07:14:38.088Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올아워즈 - 도깨비 (ALL(H)OURS - SHOCK), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57078657</id>
+        <link href="https://tv.naver.com/v/57078657"/>
+        <updated>2024-07-06T07:14:38.090Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배드빌런 - HURRICANE (BADVILLAIN - HURRICANE), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57078458</id>
+        <link href="https://tv.naver.com/v/57078458"/>
+        <updated>2024-07-06T07:14:38.090Z</updated>
+        <content type="html"><![CDATA[02:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비업 - Ain't Nobody (VVUP - Ain't Nobody), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57078456</id>
+        <link href="https://tv.naver.com/v/57078456"/>
+        <updated>2024-07-06T07:14:38.091Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블리처스 - SUPERPOWER (BLITZERS - SUPERPOWER), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57078129</id>
+        <link href="https://tv.naver.com/v/57078129"/>
+        <updated>2024-07-06T07:14:38.093Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer K-POP.zip 📂 Show! Music Core Summer K-POP Special Compilation]]></title>
         <id>https://tv.naver.com/v/56955076</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/56589389"/>
         <updated>2024-06-27T07:16:11.962Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼! 음악중심] 소녀들 쓰러지는 ＂그 파트＂🔥 #RIIZE #라이즈 #Shorts]]></title>
-        <id>https://tv.naver.com/v/56521546</id>
-        <link href="https://tv.naver.com/v/56521546"/>
-        <updated>2024-06-27T07:16:11.965Z</updated>
-        <content type="html"><![CDATA[00:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ (에이티즈) - WORK | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/55782612</id>
-        <link href="https://tv.naver.com/v/55782612"/>
-        <updated>2024-06-26T07:15:38.270Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] WOOAH NANA (우아 나나) – POM POM POM | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56424421</id>
-        <link href="https://tv.naver.com/v/56424421"/>
-        <updated>2024-06-24T10:19:03.550Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SUNGCHAN (라이즈 성찬) – Boom Boom Bass | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56424106</id>
-        <link href="https://tv.naver.com/v/56424106"/>
-        <updated>2024-06-24T10:19:03.551Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON (라이즈 앤톤) – Boom Boom Bass | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56423918</id>
-        <link href="https://tv.naver.com/v/56423918"/>
-        <updated>2024-06-24T10:19:03.553Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
