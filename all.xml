@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-09T09:17:54.471Z</updated>
+    <updated>2024-07-09T10:18:11.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON (라이즈 앤톤) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57234876</id>
+        <link href="https://tv.naver.com/v/57234876"/>
+        <updated>2024-07-09T10:18:10.959Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN (라이즈 원빈) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57234107</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/57171703"/>
         <updated>2024-07-08T10:18:49.553Z</updated>
         <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE (레드벨벳 아이린) – Cosmic | 쇼! 음악중심 | MBC240706방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57171642</id>
-        <link href="https://tv.naver.com/v/57171642"/>
-        <updated>2024-07-08T10:18:49.554Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
     </entry>
 </feed>
