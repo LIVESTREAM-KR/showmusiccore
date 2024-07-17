@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-17T06:24:28.704Z</updated>
+    <updated>2024-07-17T07:17:25.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57645665</id>
+        <link href="https://tv.naver.com/v/57645665"/>
+        <updated>2024-07-17T07:17:24.517Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) – Klaxon  | 쇼! 음악중심 | MBC240713방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57586654</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/57549739"/>
         <updated>2024-07-15T09:19:52.203Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] STAYC(스테이씨).zip 📂 SO BAD부터 Cheeky Icy Thang까지 | Show! MusicCore (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57358745</id>
-        <link href="https://tv.naver.com/v/57358745"/>
-        <updated>2024-07-14T06:25:03.451Z</updated>
-        <content type="html"><![CDATA[39:33]]></content>
     </entry>
 </feed>
