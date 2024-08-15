@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-15T06:25:06.110Z</updated>
+    <updated>2024-08-15T07:16:45.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] JEON SOMI.zip 📂 BIRTHDAY부터 Ice Cream까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59208202</id>
+        <link href="https://tv.naver.com/v/59208202"/>
+        <updated>2024-08-15T07:16:44.643Z</updated>
+        <content type="html"><![CDATA[18:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ENHYPEN (엔하이픈) - XO | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/59213486</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/59160714"/>
         <updated>2024-08-12T10:19:16.282Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 박건욱(ZB1) X 설윤 X 김규빈(ZB1) , 8월 둘째 주 음악중심 MC 컷 모음!, MBC 240810 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59133827</id>
-        <link href="https://tv.naver.com/v/59133827"/>
-        <updated>2024-08-12T02:38:52.318Z</updated>
-        <content type="html"><![CDATA[16:39]]></content>
     </entry>
 </feed>
