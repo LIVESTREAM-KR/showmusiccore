@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-24T07:15:02.953Z</updated>
+    <updated>2024-08-24T08:20:53.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[루네이트 - WHIP (LUN8 - WHIP), MBC 240824 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59822698</id>
-        <link href="https://tv.naver.com/v/59822698"/>
-        <updated>2024-08-24T07:15:02.196Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
+        <title type="html"><![CDATA[8월 4주차 1위 프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59824952</id>
+        <link href="https://tv.naver.com/v/59824952"/>
+        <updated>2024-08-24T08:20:53.065Z</updated>
+        <content type="html"><![CDATA[01:43]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니스 - 너만 몰라 (UNIS - Curious), MBC 240824 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59822654</id>
-        <link href="https://tv.naver.com/v/59822654"/>
-        <updated>2024-08-24T07:15:02.200Z</updated>
+        <title type="html"><![CDATA[태민 - Horizon (TAEMIN - Horizon), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59824951</id>
+        <link href="https://tv.naver.com/v/59824951"/>
+        <updated>2024-08-24T08:20:53.067Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문별 - 내 친구의 친구 얘기인데 (Moon Byul - Is This Love?), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59824576</id>
+        <link href="https://tv.naver.com/v/59824576"/>
+        <updated>2024-08-24T08:20:53.068Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[효린 - Wait (HYOLYN - Wait), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59824536</id>
+        <link href="https://tv.naver.com/v/59824536"/>
+        <updated>2024-08-24T08:20:53.069Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스에프나인 - Don't Worry, Be Happy (SF9 - Don't Worry, Be Happy), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59824332</id>
+        <link href="https://tv.naver.com/v/59824332"/>
+        <updated>2024-08-24T08:20:53.071Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성민 - 요.요.요. (SUNGMIN - YO.YO.YO.), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59823917</id>
+        <link href="https://tv.naver.com/v/59823917"/>
+        <updated>2024-08-24T08:20:53.072Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59823869</id>
+        <link href="https://tv.naver.com/v/59823869"/>
+        <updated>2024-08-24T08:20:53.073Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59823679</id>
+        <link href="https://tv.naver.com/v/59823679"/>
+        <updated>2024-08-24T08:20:53.075Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - Love Is Lonely (NMIXX - Love Is Lonely), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59823317</id>
+        <link href="https://tv.naver.com/v/59823317"/>
+        <updated>2024-08-24T08:20:53.076Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영파씨 - ATE THAT (YOUNG POSSE - ATE THAT), MBC 240824 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59822419</id>
-        <link href="https://tv.naver.com/v/59822419"/>
-        <updated>2024-08-24T07:15:02.203Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토니유 - Jigglin' (KOR Ver.) (Tony Yu - Jigglin' (KOR Ver.)), MBC 240824 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59822047</id>
-        <link href="https://tv.naver.com/v/59822047"/>
-        <updated>2024-08-24T07:15:02.206Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황윤성 - 우아하고 근사한 그대 (Hwang Yun Sung - Elegant and wonderful you), MBC 240824 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59822000</id>
-        <link href="https://tv.naver.com/v/59822000"/>
-        <updated>2024-08-24T07:15:02.207Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids (스트레이 키즈)- Chk Chk Boom | 쇼! 음악중심 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59627995</id>
-        <link href="https://tv.naver.com/v/59627995"/>
-        <updated>2024-08-23T07:17:02.036Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] Ulsan Summer Festival.zip 📂 Show! Music Core Ulsan Summer Festival Special Compilation (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59589765</id>
-        <link href="https://tv.naver.com/v/59589765"/>
-        <updated>2024-08-21T07:16:11.748Z</updated>
-        <content type="html"><![CDATA[01:51:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼! 음악중심] 플레이브가 음원차트 강자인 이유..🩵 #PLAVE #플레이브 #Shorts (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59623019</id>
-        <link href="https://tv.naver.com/v/59623019"/>
-        <updated>2024-08-21T06:24:22.640Z</updated>
-        <content type="html"><![CDATA[00:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ENG SUB] [#직캠보고서🔍] 💥칙칙붐+쨈🍓+막방🔫 스키즈 종합선물세트 가보자고 #StrayKids 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59630896</id>
-        <link href="https://tv.naver.com/v/59630896"/>
-        <updated>2024-08-21T04:22:04.795Z</updated>
-        <content type="html"><![CDATA[15:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2PM(투피엠).zip 📂 10점 만점에 10점부터 해야 해까지 | Show! MusicCore (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59593121</id>
-        <link href="https://tv.naver.com/v/59593121"/>
-        <updated>2024-08-20T10:18:50.860Z</updated>
-        <content type="html"><![CDATA[01:08:48]]></content>
+        <title type="html"><![CDATA[드리핀 - Weekend (DRIPPIN - Weekend), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59823262</id>
+        <link href="https://tv.naver.com/v/59823262"/>
+        <updated>2024-08-24T08:20:53.078Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
