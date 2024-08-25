@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-25T06:24:10.058Z</updated>
+    <updated>2024-08-25T07:16:09.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Roller Coaster LEGEND STAGES.zip 📂 Roller Coaster Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59698519</id>
+        <link href="https://tv.naver.com/v/59698519"/>
+        <updated>2024-08-25T07:16:08.819Z</updated>
+        <content type="html"><![CDATA[19:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] fromis_9 (프로미스나인) – Supersonic | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/59832405</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/59831592"/>
         <updated>2024-08-24T11:15:13.505Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC HYUNMIN (아크 현민) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59831443</id>
-        <link href="https://tv.naver.com/v/59831443"/>
-        <updated>2024-08-24T11:15:13.507Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
