@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T06:26:07.843Z</updated>
+    <updated>2024-08-29T07:17:34.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] NMIXX.zip 📂  O.O부터 별별별까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60015427</id>
+        <link href="https://tv.naver.com/v/60015427"/>
+        <updated>2024-08-29T07:17:34.336Z</updated>
+        <content type="html"><![CDATA[34:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fromis_9(프로미스나인).zip 📂유리구두부터 Supersonic까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60089446</id>
+        <link href="https://tv.naver.com/v/60089446"/>
+        <updated>2024-08-29T07:17:34.337Z</updated>
+        <content type="html"><![CDATA[25:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 미모, 춤선, 표정 하나 빠지는 게 없음👍 #NMIXX #엔믹스 #지우 #Shorts (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/60028131</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/59832405"/>
         <updated>2024-08-24T12:32:02.241Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] fromis_9 BAEK JI HEON (프로미스나인 백지헌) – Supersonic | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59832208</id>
-        <link href="https://tv.naver.com/v/59832208"/>
-        <updated>2024-08-24T12:32:02.245Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] fromis_9 LEE NA GYUNG (프로미스나인 이나경) – Supersonic | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59832027</id>
-        <link href="https://tv.naver.com/v/59832027"/>
-        <updated>2024-08-24T11:15:13.494Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
