@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-01T05:19:00.839Z</updated>
+    <updated>2024-09-01T06:26:13.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 태민이랑 꿈속에서 만나기로 약속한 썰 푼다🛌💜  #TAEMIN 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60211408</id>
+        <link href="https://tv.naver.com/v/60211408"/>
+        <updated>2024-09-01T06:26:12.991Z</updated>
+        <content type="html"><![CDATA[09:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/60088603</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/60210972"/>
         <updated>2024-08-31T14:15:11.441Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM GUVIN (제로베이스원 김규빈) – KILL THE ROMEO | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/60210971</id>
-        <link href="https://tv.naver.com/v/60210971"/>
-        <updated>2024-08-31T14:15:11.442Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
