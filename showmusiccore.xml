@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-18T06:27:00.784Z</updated>
+    <updated>2024-09-18T07:18:02.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Autumn K-POP.zip 📂 Show! Music Core Autumn K-POP Special Compilation]]></title>
+        <id>https://tv.naver.com/v/60859430</id>
+        <link href="https://tv.naver.com/v/60859430"/>
+        <updated>2024-09-18T07:18:01.960Z</updated>
+        <content type="html"><![CDATA[01:04:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] Trot.zip 📂 Show! Music Core Trot Special Compilation]]></title>
         <id>https://tv.naver.com/v/60861895</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60968873"/>
         <updated>2024-09-14T10:17:57.284Z</updated>
         <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KATSEYE Megan (캣츠아이 메간) – Touch | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60968872</id>
-        <link href="https://tv.naver.com/v/60968872"/>
-        <updated>2024-09-14T10:17:57.285Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>
