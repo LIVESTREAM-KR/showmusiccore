@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-12T09:19:26.141Z</updated>
+    <updated>2024-10-12T10:18:56.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] YENA (최예나) – 네모네모 | 쇼! 음악중심 | MBC241012방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/62416185</id>
+        <link href="https://tv.naver.com/v/62416185"/>
+        <updated>2024-10-12T10:18:56.103Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] XODIAC SING (소디엑 씽) – OUR DAYS | 쇼! 음악중심 | MBC241012방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/62415585</id>
+        <link href="https://tv.naver.com/v/62415585"/>
+        <updated>2024-10-12T10:18:56.104Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] XODIAC (소디엑) – OUR DAYS | 쇼! 음악중심 | MBC241012방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/62414555</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/62413609"/>
         <updated>2024-10-12T09:19:25.531Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭 - OLD TOWN (LEE CHANG SUB - OLD TOWN), MBC 241012 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62412483</id>
-        <link href="https://tv.naver.com/v/62412483"/>
-        <updated>2024-10-12T08:22:07.918Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이비식스 - NVKED (AB6IX - NVKED), MBC 241012 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62412192</id>
-        <link href="https://tv.naver.com/v/62412192"/>
-        <updated>2024-10-12T08:22:07.918Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
