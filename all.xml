@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-04T09:22:27.211Z</updated>
+    <updated>2024-11-04T10:21:38.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241102방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/63770623</id>
+        <link href="https://tv.naver.com/v/63770623"/>
+        <updated>2024-11-04T10:21:37.495Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241102방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/63770618</id>
+        <link href="https://tv.naver.com/v/63770618"/>
+        <updated>2024-11-04T10:21:37.497Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] STAYC SEEUN (스테이씨 세은) – GPT | 쇼! 음악중심 | MBC241102방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/63764016</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/63679653"/>
         <updated>2024-11-02T13:21:53.832Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC YOON (스테이씨 윤) – GPT FanCam | 쇼! 음악중심 | MBC241102방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/63679472</id>
-        <link href="https://tv.naver.com/v/63679472"/>
-        <updated>2024-11-02T13:21:53.834Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] FIFTY FIFTY CHANELLE MOON (피프티피프티 문샤넬) – Gravity FanCam | 쇼! 음악중심 | MBC241102방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/63679321</id>
-        <link href="https://tv.naver.com/v/63679321"/>
-        <updated>2024-11-02T13:21:53.836Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
