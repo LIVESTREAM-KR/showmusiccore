@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T05:19:30.188Z</updated>
+    <updated>2024-11-21T06:28:33.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] ATEEZ.zip 📂 해적왕(Pirate King)부터 Ice On My Teeth까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64727570</id>
+        <link href="https://tv.naver.com/v/64727570"/>
+        <updated>2024-11-21T06:28:32.588Z</updated>
+        <content type="html"><![CDATA[01:11:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] THE BOYZ (더보이즈) – TRIGGER (導火線) | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/64797301</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/64657335"/>
         <updated>2024-11-18T09:23:26.580Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – DRIP | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64655989</id>
-        <link href="https://tv.naver.com/v/64655989"/>
-        <updated>2024-11-18T09:23:26.581Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
