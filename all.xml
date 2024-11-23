@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-23T07:18:48.286Z</updated>
+    <updated>2024-11-23T08:23:02.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] NCT DREAM (엔시티 드림) - When I'm With You 1위 직캠 | 쇼! 음악중심 | MBC241123방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64991986</id>
+        <link href="https://tv.naver.com/v/64991986"/>
+        <updated>2024-11-23T08:23:01.809Z</updated>
+        <content type="html"><![CDATA[05:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - When I'm With You (NCT DREAM - When I'm With You), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64990505</id>
+        <link href="https://tv.naver.com/v/64990505"/>
+        <updated>2024-11-23T08:23:01.811Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 4주차 1위 엔시티 드림 - When I'm With You (NCT DREAM - When I'm With You), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64990502</id>
+        <link href="https://tv.naver.com/v/64990502"/>
+        <updated>2024-11-23T08:23:01.812Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - Flying Kiss (NCT DREAM - Flying Kiss), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64990215</id>
+        <link href="https://tv.naver.com/v/64990215"/>
+        <updated>2024-11-23T08:23:01.814Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - Ice On My Teeth (ATEEZ - Ice On My Teeth), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64990198</id>
+        <link href="https://tv.naver.com/v/64990198"/>
+        <updated>2024-11-23T08:23:01.815Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비지 - Shhh! (VIVIZ - Shhh!), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64989942</id>
+        <link href="https://tv.naver.com/v/64989942"/>
+        <updated>2024-11-23T08:23:01.816Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조미 - Ex Games (ZHOUMI - Ex Games), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64989938</id>
+        <link href="https://tv.naver.com/v/64989938"/>
+        <updated>2024-11-23T08:23:01.818Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 - No Doubt (ENHYPEN - No Doubt), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64989629</id>
+        <link href="https://tv.naver.com/v/64989629"/>
+        <updated>2024-11-23T08:23:01.820Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러 - TIPI-TAP (Kep1er - TIPI-TAP), MBC 241123 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64989294</id>
+        <link href="https://tv.naver.com/v/64989294"/>
+        <updated>2024-11-23T08:23:01.821Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이비몬스터 - DRIP (BABYMONSTER - DRIP), MBC 241123 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/64989005</id>
         <link href="https://tv.naver.com/v/64989005"/>
         <updated>2024-11-23T07:18:47.608Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일릿 - Tick-Tack (ILLIT - Tick-Tack), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64988778</id>
-        <link href="https://tv.naver.com/v/64988778"/>
-        <updated>2024-11-23T07:18:47.609Z</updated>
-        <content type="html"><![CDATA[02:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스지 - NALLINA (NEXZ - NALLINA), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64988772</id>
-        <link href="https://tv.naver.com/v/64988772"/>
-        <updated>2024-11-23T07:18:47.610Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나우어데이즈 - 렛츠기릿 (NOWADAYS - Let's get it), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64988538</id>
-        <link href="https://tv.naver.com/v/64988538"/>
-        <updated>2024-11-23T07:18:47.612Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브 - Viola (Yves - Viola), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64988302</id>
-        <link href="https://tv.naver.com/v/64988302"/>
-        <updated>2024-11-23T07:18:47.614Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배드빌런 - 숨 (ZOOM) (BADVILLAIN - ZOOM), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64988033</id>
-        <link href="https://tv.naver.com/v/64988033"/>
-        <updated>2024-11-23T07:18:47.616Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨 - Psycho and Beautiful (CLASS:y - Psycho and Beautiful), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64987808</id>
-        <link href="https://tv.naver.com/v/64987808"/>
-        <updated>2024-11-23T07:18:47.617Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안예은 - 잉어왕 (AHN YEEUN - KINGCARP), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64987588</id>
-        <link href="https://tv.naver.com/v/64987588"/>
-        <updated>2024-11-23T07:18:47.619Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린 - Official (ICHILLIN' - Official), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64987349</id>
-        <link href="https://tv.naver.com/v/64987349"/>
-        <updated>2024-11-23T07:18:47.620Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오드유스 - THAT'S ME (ODD YOUTH - THAT'S ME), MBC 241123 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64987347</id>
-        <link href="https://tv.naver.com/v/64987347"/>
-        <updated>2024-11-23T07:18:47.621Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
     </entry>
 </feed>
