@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-08T04:23:27.663Z</updated>
+    <updated>2025-01-08T05:18:58.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뱀띠 아이돌.zip 📂 Show! Music Core 2025 Year of the Snake Special Compilation]]></title>
+        <id>https://tv.naver.com/v/66917777</id>
+        <link href="https://tv.naver.com/v/66917777"/>
+        <updated>2025-01-08T05:18:58.125Z</updated>
+        <content type="html"><![CDATA[38:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 - MAESTRO (SEVENTEEN - MAESTRO), MBC 241228 방송]]></title>
         <id>https://tv.naver.com/v/67200219</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/67198714"/>
         <updated>2024-12-28T07:16:38.557Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원 - GOOD SO BAD (ZEROBASEONE - GOOD SO BAD), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198713</id>
-        <link href="https://tv.naver.com/v/67198713"/>
-        <updated>2024-12-28T07:16:38.559Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
