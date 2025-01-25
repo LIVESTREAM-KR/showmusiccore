@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-25T06:23:53.758Z</updated>
+    <updated>2025-01-25T07:15:46.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 - THUNDER (CIX - THUNDER), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68871682</id>
+        <link href="https://tv.naver.com/v/68871682"/>
+        <updated>2025-01-25T07:15:46.207Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 위시 - Miracle (NCT WISH - Miracle), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68871679</id>
+        <link href="https://tv.naver.com/v/68871679"/>
+        <updated>2025-01-25T07:15:46.208Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔싸인 - Love Potion (백일몽; 白日夢) (n.SSign - Love Potion), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68871247</id>
+        <link href="https://tv.naver.com/v/68871247"/>
+        <updated>2025-01-25T07:15:46.209Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지현 - 바다 사나이 (Park Ji Hyeon - Sea ​​Man), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68870783</id>
+        <link href="https://tv.naver.com/v/68870783"/>
+        <updated>2025-01-25T07:15:46.210Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킥플립 - Mama Said (뭐가 되려고?) (KickFlip - Mama Said), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68870780</id>
+        <link href="https://tv.naver.com/v/68870780"/>
+        <updated>2025-01-25T07:15:46.211Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킥플립 - 응 그래 (KickFlip - Umm Great), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68870777</id>
+        <link href="https://tv.naver.com/v/68870777"/>
+        <updated>2025-01-25T07:15:46.212Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영 - 넌 언제나 (2025) (Catch The Young - You, Always (2025)), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68870560</id>
+        <link href="https://tv.naver.com/v/68870560"/>
+        <updated>2025-01-25T07:15:46.214Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미스김 - 될놈 (Miss Kim - DOIL NOM), MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68870131</id>
+        <link href="https://tv.naver.com/v/68870131"/>
+        <updated>2025-01-25T07:15:46.216Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] IVE.zip 📂 ELEVEN부터 REBEL HEART까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/68617036</id>
@@ -17,61 +73,5 @@
         <link href="https://tv.naver.com/v/68730804"/>
         <updated>2025-01-23T07:17:44.424Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68544912</id>
-        <link href="https://tv.naver.com/v/68544912"/>
-        <updated>2025-01-20T07:18:44.020Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE LEESEO (아이브 이서) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68544623</id>
-        <link href="https://tv.naver.com/v/68544623"/>
-        <updated>2025-01-20T07:18:44.022Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68544621</id>
-        <link href="https://tv.naver.com/v/68544621"/>
-        <updated>2025-01-20T07:18:44.023Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 1월 셋째 주 음악중심 MC 컷 모음!, MBC 250118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68536876</id>
-        <link href="https://tv.naver.com/v/68536876"/>
-        <updated>2025-01-20T05:18:24.608Z</updated>
-        <content type="html"><![CDATA[15:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE LIZ (아이브 리즈) – REBEL HEART FanCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449261</id>
-        <link href="https://tv.naver.com/v/68449261"/>
-        <updated>2025-01-18T08:21:31.156Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE JANG WONYOUNG (아이브 장원영) – REBEL HEART  FanCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449258</id>
-        <link href="https://tv.naver.com/v/68449258"/>
-        <updated>2025-01-18T08:21:31.157Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] WANSUN&SEULGI WANSUN (완선&슬기 완선) – Lucky FanCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449255</id>
-        <link href="https://tv.naver.com/v/68449255"/>
-        <updated>2025-01-18T08:21:31.160Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] ONEUS (원어스) – IKUK FullCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449253</id>
-        <link href="https://tv.naver.com/v/68449253"/>
-        <updated>2025-01-18T08:21:31.161Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
     </entry>
 </feed>
