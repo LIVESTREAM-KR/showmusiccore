@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-25T08:22:17.217Z</updated>
+    <updated>2025-01-25T09:18:00.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] MINNIE (민니) – HER FanCam | 쇼! 음악중심 | MBC250125 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68875476</id>
+        <link href="https://tv.naver.com/v/68875476"/>
+        <updated>2025-01-25T09:17:59.755Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] MINNIE (민니) – HER FullCam | 쇼! 음악중심 | MBC250125 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68875473</id>
+        <link href="https://tv.naver.com/v/68875473"/>
+        <updated>2025-01-25T09:17:59.758Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] IVE (아이브) – REBEL HEART 1위 직캠 | 쇼! 음악중심 | MBC250125 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/68874489</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/68872155"/>
         <updated>2025-01-25T08:22:16.584Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤팀 - Deer Hunter (Korean ver.) (&TEAM - Deer Hunter (Korean ver.)), MBC 250125 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68871919</id>
-        <link href="https://tv.naver.com/v/68871919"/>
-        <updated>2025-01-25T08:22:16.585Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 - THUNDER (CIX - THUNDER), MBC 250125 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68871682</id>
-        <link href="https://tv.naver.com/v/68871682"/>
-        <updated>2025-01-25T07:15:46.207Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
