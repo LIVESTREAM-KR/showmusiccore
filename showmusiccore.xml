@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-22T06:27:11.421Z</updated>
+    <updated>2025-02-22T07:16:17.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#최애직캠] PLAVE HAMIN (플레이브 하민) – Dash | 쇼! 음악중심 | MBC250215]]></title>
-        <id>https://tv.naver.com/v/70289324</id>
-        <link href="https://tv.naver.com/v/70289324"/>
-        <updated>2025-02-19T07:18:39.415Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
+        <title type="html"><![CDATA[리센느 - Glow Up (RESCENE - Glow Up), MBC 250222 방송]]></title>
+        <id>https://tv.naver.com/v/70562172</id>
+        <link href="https://tv.naver.com/v/70562172"/>
+        <updated>2025-02-22T07:16:17.221Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
     </entry>
 </feed>
