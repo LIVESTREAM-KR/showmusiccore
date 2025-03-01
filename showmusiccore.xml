@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-01T06:27:07.962Z</updated>
+    <updated>2025-03-01T07:18:03.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킥플립 - Knock Knock (KickFlip - Knock Knock), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71031603</id>
+        <link href="https://tv.naver.com/v/71031603"/>
+        <updated>2025-03-01T07:18:02.375Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키키 - I DO ME (KiiiKiii - I DO ME), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71031400</id>
+        <link href="https://tv.naver.com/v/71031400"/>
+        <updated>2025-03-01T07:18:02.376Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루네이트 - 나비 (LUN8 - Butterfly), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71031150</id>
+        <link href="https://tv.naver.com/v/71031150"/>
+        <updated>2025-03-01T07:18:02.376Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원팩트 - 100! (ONE PACT - 100!), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71030946</id>
+        <link href="https://tv.naver.com/v/71030946"/>
+        <updated>2025-03-01T07:18:02.377Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누에라 - N.I.N (New is Now) (NouerA - N.I.N (New is Now)), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71030706</id>
+        <link href="https://tv.naver.com/v/71030706"/>
+        <updated>2025-03-01T07:18:02.377Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소디엑 - TIME 2 SHINE (XODIAC - TIME 2 SHINE), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71030484</id>
+        <link href="https://tv.naver.com/v/71030484"/>
+        <updated>2025-03-01T07:18:02.378Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규빈 - LIKE U 100 (Gyubin - LIKE U 100), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71030233</id>
+        <link href="https://tv.naver.com/v/71030233"/>
+        <updated>2025-03-01T07:18:02.380Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아크 - nu kidz (ARrC - nu kidz), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71030232</id>
+        <link href="https://tv.naver.com/v/71030232"/>
+        <updated>2025-03-01T07:18:02.382Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[February TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/70894456</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/70894027"/>
         <updated>2025-02-27T07:18:44.592Z</updated>
         <content type="html"><![CDATA[50:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] Block B (블락비) – H.E.R | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/70670002</id>
-        <link href="https://tv.naver.com/v/70670002"/>
-        <updated>2025-02-26T07:18:50.930Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF MINKYUN (온앤오프 민균) – The Stranger | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70677110</id>
-        <link href="https://tv.naver.com/v/70677110"/>
-        <updated>2025-02-24T09:21:39.116Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF SEUNGJUN (온앤오프 승준) – The Stranger | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70677107</id>
-        <link href="https://tv.naver.com/v/70677107"/>
-        <updated>2025-02-24T09:21:39.116Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF E-TION (온앤오프 이션) – The Stranger | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70677103</id>
-        <link href="https://tv.naver.com/v/70677103"/>
-        <updated>2025-02-24T09:21:39.117Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF HYOJIN (온앤오프 효진) – The Stranger | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70676783</id>
-        <link href="https://tv.naver.com/v/70676783"/>
-        <updated>2025-02-24T09:21:39.117Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 가을 X 리즈 , 아이브(IVE) 2월 넷째 주 음악중심 MC 컷 모음!, MBC 250222 방송]]></title>
-        <id>https://tv.naver.com/v/70646077</id>
-        <link href="https://tv.naver.com/v/70646077"/>
-        <updated>2025-02-24T02:54:33.039Z</updated>
-        <content type="html"><![CDATA[16:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분] 2월 4주차 1위 아이브 - REBEL HEART (IVE - REBEL HEART), MBC 250222 방송]]></title>
-        <id>https://tv.naver.com/v/70571184</id>
-        <link href="https://tv.naver.com/v/70571184"/>
-        <updated>2025-02-24T06:28:51.714Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] KickFlip (킥플립) – Knock Knock FullCam | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70566181</id>
-        <link href="https://tv.naver.com/v/70566181"/>
-        <updated>2025-02-24T06:28:51.717Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
