@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-12T07:20:19.510Z</updated>
+    <updated>2025-03-12T08:27:22.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/71611548"/>
         <updated>2025-03-10T09:18:29.530Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INFINITE (인피니트).zip 📂 다시 돌아와부터 Dangerous까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/71758894</id>
+        <link href="https://tv.naver.com/v/71758894"/>
+        <updated>2025-03-12T08:27:21.822Z</updated>
+        <content type="html"><![CDATA[01:16:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME | 쇼! 음악중심 | MBC250308]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71629542"/>
         <updated>2025-03-10T13:28:47.369Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – BLUE | 쇼! 음악중심 | MBC250308]]></title>
-        <id>https://tv.naver.com/v/71629540</id>
-        <link href="https://tv.naver.com/v/71629540"/>
-        <updated>2025-03-10T13:28:47.370Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
