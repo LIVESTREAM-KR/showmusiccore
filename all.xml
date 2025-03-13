@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-13T11:17:08.679Z</updated>
+    <updated>2025-03-13T12:39:50.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://tv.naver.com/v/71611548"/>
         <updated>2025-03-10T09:18:29.530Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #ZEROBASEONE #제로베이스원 자면 안 돼!!🤚 기다려!!🤚 ZB1의 단짠단짠 음중 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71858849</id>
+        <link href="https://tv.naver.com/v/71858849"/>
+        <updated>2025-03-13T12:39:49.893Z</updated>
+        <content type="html"><![CDATA[26:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[INFINITE (인피니트).zip 📂 다시 돌아와부터 Dangerous까지 | Show! MusicCore (쇼! 음악중심)]]></title>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/71629546"/>
         <updated>2025-03-10T13:28:47.369Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – BLUE | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71629542</id>
-        <link href="https://tv.naver.com/v/71629542"/>
-        <updated>2025-03-10T13:28:47.369Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
