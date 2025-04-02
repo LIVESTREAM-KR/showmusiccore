@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-02T08:28:38.613Z</updated>
+    <updated>2025-04-02T09:23:01.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
@@ -40,6 +40,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM (르세라핌) – HOT | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73292615</id>
+        <link href="https://tv.naver.com/v/73292615"/>
+        <updated>2025-04-02T09:23:00.859Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCKPOP] STAYC (스테이씨).zip 📂 SO BAD부터 BEBE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73237359</id>
         <link href="https://tv.naver.com/v/73237359"/>
@@ -65,13 +72,6 @@
         <id>https://tv.naver.com/v/73196855</id>
         <link href="https://tv.naver.com/v/73196855"/>
         <updated>2025-04-01T07:21:27.295Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73198648</id>
-        <link href="https://tv.naver.com/v/73198648"/>
-        <updated>2025-04-01T06:30:43.856Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
