@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-08T10:23:46.123Z</updated>
+    <updated>2025-04-08T11:17:49.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
@@ -26,6 +26,34 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734989</id>
+        <link href="https://tv.naver.com/v/73734989"/>
+        <updated>2025-04-08T11:17:48.476Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734987</id>
+        <link href="https://tv.naver.com/v/73734987"/>
+        <updated>2025-04-08T11:17:48.478Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE (더보이즈 현재) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734983</id>
+        <link href="https://tv.naver.com/v/73734983"/>
+        <updated>2025-04-08T11:17:48.481Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734979</id>
+        <link href="https://tv.naver.com/v/73734979"/>
+        <updated>2025-04-08T11:17:48.482Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TEN (텐) – STUNNER | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73654557</id>
         <link href="https://tv.naver.com/v/73654557"/>
@@ -45,33 +73,5 @@
         <link href="https://tv.naver.com/v/73653073"/>
         <updated>2025-04-07T10:24:05.189Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NiziU MIIHI (니쥬 미이히) – LOVE LINE (운명선) | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73645760</id>
-        <link href="https://tv.naver.com/v/73645760"/>
-        <updated>2025-04-07T08:28:30.411Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JO1 KAWANISHI TAKUMI (제이오원 카와니시 타쿠미) – BE CLASSIC | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73628441</id>
-        <link href="https://tv.naver.com/v/73628441"/>
-        <updated>2025-04-07T05:21:17.587Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JO1 KONO JUNKI (제이오원 코노 준키) – BE CLASSIC | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73627688</id>
-        <link href="https://tv.naver.com/v/73627688"/>
-        <updated>2025-04-07T05:21:17.589Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JO1 SHIROIWA RUKI (제이오원 시로이와 루키) – BE CLASSIC | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73627684</id>
-        <link href="https://tv.naver.com/v/73627684"/>
-        <updated>2025-04-07T05:21:17.591Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
