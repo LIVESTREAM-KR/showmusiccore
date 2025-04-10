@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-10T09:22:29.095Z</updated>
+    <updated>2025-04-10T10:22:44.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:17:22.452Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #엑스디너리히어로즈 #XdinaryHeroes 라이브의 신 엑디즈가 음중에서 미니콘서트한 썰 푼다💥 음중 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73902729</id>
+        <link href="https://tv.naver.com/v/73902729"/>
+        <updated>2025-04-10T10:22:43.844Z</updated>
+        <content type="html"><![CDATA[24:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] STAYC (스테이씨) – BEBE | 쇼! 음악중심 (쇼! 음악중심)]]></title>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/73654557"/>
         <updated>2025-04-07T10:24:05.186Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] izna JEONG SAEBI (이즈나 정세비) – SIGN | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73653417</id>
-        <link href="https://tv.naver.com/v/73653417"/>
-        <updated>2025-04-07T10:24:05.188Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
