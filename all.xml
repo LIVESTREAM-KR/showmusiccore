@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/showmusiccore/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-12T09:23:02.651Z</updated>
+    <updated>2025-04-12T10:19:17.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:17:22.452Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] MARK (마크) – 1999 | 쇼! 음악중심 | MBC250412 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/74043546</id>
+        <link href="https://tv.naver.com/v/74043546"/>
+        <updated>2025-04-12T10:19:16.719Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#음중풀캠] izna (이즈나) – SIGN FullCam | 쇼! 음악중심 | MBC250412 (쇼! 음악중심)]]></title>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/74043217"/>
         <updated>2025-04-12T09:23:01.976Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna KOKO (이즈나 코코) – SIGN FanCam | 쇼! 음악중심 | MBC250412 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/74043216</id>
-        <link href="https://tv.naver.com/v/74043216"/>
-        <updated>2025-04-12T09:23:01.977Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
